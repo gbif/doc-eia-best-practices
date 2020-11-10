@@ -1,4 +1,4 @@
-= GBIF Document Template
+= Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments
 Author One <communication@gbif.org>; Author Two
 :toc: left
 :toclevels: 3
@@ -16,7 +16,7 @@ endif::backend-html5[]
 
 include::colophon.en.adoc[]
 
-include::preface.en.adoc[]
+include::intro.en.adoc[]
 
 :sectnums:
 
