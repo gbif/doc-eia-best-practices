@@ -7,27 +7,23 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx.
-
-=== Authors
-
-Un Author, Due Autore & https://www.orcid.org/#[Troisième Auteur]
+GBIF Secretariat & IAIA (2020) Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-5xdm-8762
 
 === Contributors
 
-James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
+Andrew Rodrigues, Dag Endresen, Rui Figueira, Cristina Villaverde, Miguel Vega, Nick King, Asha Raivanshi and Jo Treweek contributed to this document.
 
 === Licence
 
-The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-xxxx-xxxx
+https://doi.org/10.35035/doc-5xdm-8762
 
 === Document control
 
-Third edition, April 2020
+Second edition, November 2020
 
 // include reference to provenance if possible/relevant
 https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
