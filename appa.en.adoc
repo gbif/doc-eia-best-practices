@@ -1,14 +1,12 @@
 [appendix]
-== Example
+== Methods and tools web sites: sources of additional assistance
 
-An AsciiDoc appendix is just a document section with a 'specialsection' title.
-
-Place non-essential information that supports your analysis, validates your conclusions or pursues a related point in an appendix. Examples could include: 
-
-* figures/tables/charts/graphs of results
-* statistics
-* questionnaires 
-* transcripts of interviews
-* survey results
-* maps
-* software installation instructions
+* https://www.gbif.org/publishing-data[Getting started: overview of data publishing in the GBIF network^]
+*	https://github.com/gbif/ipt/wiki/howToPublish#instructions
+[How to publish biodiversity data through GBIF.org^]
+*	https://www.gbif.org/dataset-classes[GBIF types of datasets^], including spreadsheet templates
+*	https://www.gbif.org/data-quality-requirements[GBIF data quality Requirements^]
+*	https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]
+*	https://dwc.tdwg.org/terms/[Darwin Core Quick Reference Guide^]
+*	http://www.dublincore.org/documents/usageguide/elements/[Ecological Metadata Language Guide^]
+*	https://www.gbif.org/the-gbif-network[GBIF Participants^]
