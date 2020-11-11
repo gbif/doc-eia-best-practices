@@ -47,6 +47,8 @@ As a first step towards publishing biodiversity data, EAPs can seek assistance f
 
 `insert figure-01`
 
+:sectnums!:
+
 ==== Step 1:  Becoming a data publisher
 Once there is agreement in an organization to share EIA data openly and freely, provisions must be in place to ensure that stakeholders in the process of data collection, curation and management agree to the terms by which data publishing takes place, and are properly acknowledged in their role. This includes agreement to the https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes) and understanding of the https://www.gbif.org/terms/data-user[Data User Agreement^] that users of GBIF-mediated data must agree to before reusing data.
 
@@ -119,3 +121,5 @@ Note that the CC-BY-NC license has a significant effect on the reusability of da
 ==== Step 6:  Discovering and citing data through GBIF
 
 Once registered, GBIF indexes datasets to facilitate access to the data by users. Datasets have their own page within www.gbif.org and can be found using the search function on the website or via the publishing organization’s pages, e.g. https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP-Energias de Portugal^]. Through the indexing process, records from published datasets may be discovered through complex searches, for example for all records of a particular species or groups of species in a given geographical area. The GBIF Data User Agreement requires proper citation of the data regardless of the chosen licence agreement. Through tracking of citations using Digital Object Identifiers (DOIs), GBIF provides publishers with key metrics on the onward use of their data cited in research and assessments, for example on this ‘activity’ tab from a dataset published by https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[SWECO^]. Companies may use this information to demonstrate the value they have contributed to science and society through sharing data from EIAs.
+
+:sectnums:
