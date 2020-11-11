@@ -34,9 +34,6 @@ GBIF publishes https://www.gbif.org/dataset-classes[four different classes of da
 |Sampling-event dataset
 |Occurrence data for a specific site that has been sampled using a specific protocol, including repeated samples over time, with abundances based on defined units and quantities, and sampling effort.
 |Scientific name, latitude, longitude and how the species were collected/observed and in which series of monitoring events it was recorded (see https://www.gbif.org/dataset/8918109e-0d4a-4cc9-af7b-8e49d31df942[example^])
-
-
-
 |=== 
 
 
@@ -74,18 +71,18 @@ GBIF provides a https://www.gbif.org/dataset-classes[set of pre-configured Excel
 |Commercial sensitivity of data during licensing period
 |Data publication can be delayed until project receives approval
 
-Company faces possible reputational risk if, for example, biodiversity is damaged
+|Company faces possible reputational risk if, for example, biodiversity is damaged
 |Over time, increased open data on species distributions will allow for more robust and transparent assessments of site-specific damage that can provide reputational dividends
 
 |Sharing data may need government approval and buy-in
-|Guidelines from the Convention on Biological Diversity (CBD) encourage open data sharing, GBIF data mobilization is an indicator of progress towards Aichi Biodiversity Target 19
+|https://www.cbd.int/doc/decisions/cop-13/cop-13-dec-31-en.pdf[Guidelines from the Convention on Biological Diversity] encourage open data sharing, and data mobilized through GBIF is an https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif[indicator of progress towards Aichi Biodiversity Target 19]
 
 |Company could incur additional costs and require additional effort to monitor and share data
 |Costs of monitoring should already be captured within the project budget; publication is free of charge, and open-access data can provide long-term savings
 
 |Free and open data is an unequal playing field; those that invest in providing stand less to gain than those that use
 |Investments in the publication of open and free data will improve knowledge on species distributions that will benefit all parties in the long term
-
+|===
 
 ==== Step 3: Selecting a tool to prepare data for publishing
 
