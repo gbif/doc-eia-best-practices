@@ -3,13 +3,13 @@
 
 === Types of biodiversity data 
 
-Biodiversity data can encompass structured information data across any level of biodiversity—molecular, species or ecosystem. These data can be either primary biodiversity data, such as observations or collections at a specific time and place, or secondary, synthesized or interpreted data, which combine biodiversity and environmental data from different sources to interpret the real world as in a species distribution map. Although EIAs tend to present a considerable amount of secondary data, this information relies in turn on large volumes of primary biodiversity data, which is the focus of this document. 
+Biodiversity data can encompass structured information data across any level of biodiversity—molecular, species or ecosystem. These data can be either primary biodiversity data, such as observations or collections at a specific time and place, or secondary, synthesized or interpreted data, which combine biodiversity and environmental data from different sources to present real-world interpretations, as in a species distribution map. Although EIAs tend to present a considerable amount of secondary data, this information relies in turn on large volumes of the primary biodiversity data that are the focus of this document. 
 
-The GBIF network specializes in bringing together ‘species occurrence data’ typically including, at a minimum, a scientific name, date and location of occurrence. Traditionally, these records have come from sources such as specimens from natural history collections, field work and monitoring surveys, but today other key sources include camera-trap images, environmental DNA sampling (eDNA) and citizen science projects.
+The GBIF network specializes in bringing together ‘species occurrence data’ that typically includes, at a minimum, a scientific name, date and location of occurrence. Traditionally, these records have come from sources such as specimens from natural history collections, field work and monitoring surveys, but today other key sources include camera-trap images, environmental DNA (eDNA) sampling and citizen science projects.
 
-While scientific name, date and location represent a minimum recommended level of information, records about the occurrence of organisms can also include other useful information, such as method used for the observation, abundance counts, habitat structure (like height, stratification, density), abiotic characteristics  (like, substrates, hydrology, climate) and associated information about land use and threats. https://www.gbif.org/data-quality-requirements[Learn more about data-quality requirements^].
+While scientific name, date and location represent a minimum recommended level of information about an organism, occurrence records can include other useful information, such as the observation method, abundance counts, habitat structure (like height, stratification, density), abiotic characteristics (such as substrates, hydrology, climate) and associated information about land use and threats. https://www.gbif.org/data-quality-requirements[Learn more about data-quality requirements^].
 
-GBIF publishes https://www.gbif.org/dataset-classes[four different classes of datasets^]: metadata-only, checklist, occurrence and sampling-event. These classes represent increasingly richer levels of information rather than different types of data. Table 1 describes each class and examples of the type of information they include.  
+GBIF publishes https://www.gbif.org/dataset-classes[four different classes of datasets^]: metadata-only, checklist, occurrence and sampling-event. These classes represent increasingly richer levels of information rather than different types of data. <<table-01,Table 1>> describes each class and examples of the type of information they include.  
 
 [[table-01]]
 .Steps to publishing data on GBIF.org
@@ -39,26 +39,33 @@ GBIF publishes https://www.gbif.org/dataset-classes[four different classes of da
 
 === Operating principles: Steps in the publishing process
 
-GBIF provides a means of sharing biodiversity data, through the process known as *publishing*, that makes it universally accessible over the Internet, using simple tools and following standard procedures and protocols. Data publishing through the GBIF network follows a series of clear steps, shown in Figure 1. Each of these steps is described in more detail in the subsequent sections of this document.
+GBIF provides a means of sharing biodiversity data through a publishing process that uses simple tools and follows standard procedures and protocols to make it universally accessible over the Internet. Data publishing through the GBIF network follows a series of clear steps, shown in <<figure-01,Figure 1>>. Each of these steps is described in more detail in the subsequent sections of this document.
 
 This guide will help environmental assessment practitioners (EAPs), consultants and other interested and affected parties to choose the most suitable option or tool for publishing the primary biodiversity data they have gathered, as an integral part of the EIA process.
 
 As a first step towards publishing biodiversity data, EAPs can seek assistance from the wide https://www.gbif.org/the-gbif-network[network of GBIF national, regional and thematic Participants^]. A majority of these nodes encourage, coordinate and assist in biodiversity data publishing activities within their respective jurisdictions and domains. If the EAP´s operations fall outside of the GBIF network e.g. in a country where there is no node, then the mailto:helpdesk@gbif.org[GBIF help desk] can provide additional support.
 
+[[figure-01]]
 `insert figure-01`
 
 :sectnums!:
 
-==== Step 1:  Becoming a data publisher
-Once there is agreement in an organization to share EIA data openly and freely, provisions must be in place to ensure that stakeholders in the process of data collection, curation and management agree to the terms by which data publishing takes place, and are properly acknowledged in their role. This includes agreement to the https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes) and understanding of the https://www.gbif.org/terms/data-user[Data User Agreement^] that users of GBIF-mediated data must agree to before reusing data.
+==== Step 1: Becoming a data publisher
 
-Data-holding organizations must register as data publishers, if they have not done so already. In the context of EIA data, this can either be the company planning the project, or the consultancy carrying out the biodiversity survey. Prospective publishers should register as publishers via https://www.gbif.org/become-a-publisher[this online form^]. They are endorsed by Participant nodes where such an entity exists nationally (see this https://www.gbif.org/the-gbif-network[an up-to-date list of Participant countries^]), or by a community endorsement process where no national node exists. The endorsement requests are handled by GBIF based on the details provided on the form. Registration as a data publisher will create a publisher page with which published datasets will be associated, including a description of the organization, logo and contact details.
+Once there is an organization agrees to share EIA data, its staff must establish provisions ensuring that stakeholders in each stage of data collection, curation and management agree to the terms by which data publishing takes place and are properly acknowledged in their role. These provisions should include agreeing to the GBIF https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes) and understanding the conditions of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that users of GBIF-mediated data must abide when reusing data.
+
 
 ==== Step 2. Data capture
 
-Ensuring that data capture is standardized at point of collection will (a) make it easier for EAPs to collect and manage primary biodiversity data; (b) improve the consistency and utility of data collection, and (c) ensure that the data are collected in a consistent format, suitable for publishing using the GBIF infrastructure. GBIF uses the Darwin Core (DwC) and Ecological Metadata Language (EML) standards, which set out the structure and format of published datasets (learn more about https://www.gbif.org/standards[applicable standards^]). 
+Ensuring the standardization of data capture at point of collection will 
 
-GBIF provides a https://www.gbif.org/dataset-classes[set of pre-configured Excel spreadsheets^] that serve as templates for capturing checklist, occurrence and sampling-event data. These spreadsheets are simple tools that provide a common format and standard for collecting data, using consistent terminology, and can be completed with additional DwC terms to fit the data collection purpose. This makes it easier for data to be exchanged between users, compared between sites, and integrated into national and global biodiversity databases. No metadata template is provided as publishers can use the built-in metadata editor in GBIF’s data publication tool–the Integrated Publishing Toolkit (IPT) (see <<step-3>> below)–to populate the metadata. The IPT ensures that the data and metadata are in a valid XML format.
+* make it easier for EAPs to collect and manage primary biodiversity data
+* improve the consistency and utility of data collection
+* ensure that the data are collected in a consistent format, suitable for publishing using the GBIF infrastructure. 
+
+GBIF primarily relies on the Darwin Core (DwC) and Ecological Metadata Language (EML) standards, which set out the structure and format of published datasets (learn more about https://www.gbif.org/standards[applicable standards^]). 
+
+GBIF provides a https://www.gbif.org/dataset-classes[pre-configured Excel spreadsheets^] that can serve as templates for capturing checklist, occurrence and sampling-event data. These spreadsheets are simple tools aimed at providing a common format and standard for collecting data. They use consistent terminology and can be completed with additional DwC terms to fit the data collection purpose. This standardized approach makes it easier to exchange data between users, compare it across sites, and integrate it into national and global biodiversity databases. No metadata template is provided as publishers can use the built-in metadata editor in GBIF’s data publication tool–the Integrated Publishing Toolkit (IPT) (see <<step-03,Step 3>> below)–to populate the metadata. The IPT ensures that the data and metadata are in a valid XML format.
 
 [[table-02]]
 .Responses to key concerns raised by EIA data publishers
@@ -82,10 +89,11 @@ GBIF provides a https://www.gbif.org/dataset-classes[set of pre-configured Excel
 |Company could incur additional costs and require additional effort to monitor and share data
 |Costs of monitoring should already be captured within the project budget; publication is free of charge, and open-access data can provide long-term savings
 
-|Free and open data is an unequal playing field; those that invest in providing stand less to gain than those that use
-|Investments in the publication of open and free data will improve knowledge on species distributions that will benefit all parties in the long term
+|Companies that don’t invest in sharing data can benefit from free and open data available through GBIF more than others who contribute to its supply and maintenance
+|“Free riders” exist in any commons, but a large common pool resource like GBIF is not depleted by use, and parties that do participate typically build receptive capacity to understand the issues and limitations of the resource better than those who don’t
 |===
 
+[[step-03]]
 ==== Step 3: Selecting a tool to prepare data for publishing
 
 GBIF.org does not itself host data. The system relies on each data publisher maintaining their own datasets, and making them available online in a GBIF-supported format. It also relies on organizations letting GBIF know where to find and harvest the data, by registering the datasets. GBIF recommends using the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) to do this. Highly skilled publishers can also use an API to register datasets programmatically (contact the mailto:helpdesk@gbif.org[GBIF help desk] for more details).
