@@ -23,7 +23,7 @@ https://doi.org/10.35035/doc-5xdm-8762
 
 === Abstract
 
-This guide aims to help practitioners, consultants and other Interested & Affected Parties (I&APs) working with environmental impact assessments to curate, archive and manage primary biodiversity data captured during EIA processes better and to share it freely and openly in standardized, accessible and interoperable formats through the Global Biodiversity Information Facility (GBIF). I&APS are encouraged to share the most detailed data possible, to support knowledge about species distributions and provide baseline data for future assessment. 
+This guide aims to help practitioners, consultants and other Interested & Affected Parties (I&APs) working with environmental impact assessments to improve the curation, archiving and management of primary biodiversity data captured during EIA processes and to share data freely and openly in standardized, accessible and interoperable formats through the Global Biodiversity Information Facility (GBIF). I&APS are encouraged to share the most detailed data possible, to support knowledge about species distributions and provide baseline data for future assessment. 
 
 === Document control
 
