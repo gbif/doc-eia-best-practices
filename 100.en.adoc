@@ -1,7 +1,7 @@
 [[benefits]]
 == Benefits of sharing biodiversity data 
 
-Companies responsible for ordering or conducting EIAs can accrue both operational and reputational benefits, by sharing biodiversity data through GBIF and similar open access data platforms. Specifically, publishing primary biodiversity data from EIAs:
+Companies responsible for ordering or conducting EIAs can accrue both operational and reputational benefits by sharing biodiversity data through GBIF and similar open access data platforms. Specifically, publishing primary biodiversity data from EIAs:
 
 * Provides long-term cost savings and improved understanding of natural heritage of project areas by leveraging existing biodiversity information from earlier data collection efforts
 *	Shares biological data methodically and consistently using standardized formats and conditions, aligning with best practices to improve data management, documentation and retention in large and small projects
