@@ -46,7 +46,8 @@ This guide will help environmental assessment practitioners (EAPs), consultants 
 As a first step towards publishing biodiversity data, EAPs can seek assistance from the wide https://www.gbif.org/the-gbif-network[network of GBIF national, regional and thematic Participants^]. A majority of these nodes encourage, coordinate and assist in biodiversity data publishing activities within their respective jurisdictions and domains. If the EAP´s operations fall outside of the GBIF network e.g. in a country where there is no node, then the mailto:helpdesk@gbif.org[GBIF help desk] can provide additional support.
 
 [[figure-01]]
-`insert figure-01`
+.Data publishing workflow: steps for publishing data on GBIF.org
+image::img/web/figure-01.png[Figure 1,align=center]
 
 :sectnums!:
 
