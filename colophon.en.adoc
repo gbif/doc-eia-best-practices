@@ -7,7 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-GBIF Secretariat & IAIA (2020) Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-5xdm-8762
+GBIF Secretariat & IAIA (2020) Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments [community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-5xdm-8762
 
 === Contributors
 
