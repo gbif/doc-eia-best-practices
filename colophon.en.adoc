@@ -23,7 +23,7 @@ https://doi.org/10.35035/doc-5xdm-8762
 
 === Abstract
 
-This guide aims to help practitioners, consultants and other Interested & Affected Parties (I&APs) working with environmental impact assessments to improve the curation, archiving and management of primary biodiversity data captured during EIA processes and to share data freely and openly in standardized, accessible and interoperable formats through the Global Biodiversity Information Facility (GBIF). I&APS are encouraged to share the most detailed data possible, to support knowledge about species distributions and provide baseline data for future assessment. 
+This guide aims to help practitioners, consultants and other Interested & Affected Parties (I&APs) working with environmental impact assessments to improve the curation, archiving and management of primary biodiversity data captured during EIA processes and to share data freely and openly in standardized, accessible and interoperable formats through the Global Biodiversity Information Facility (GBIF). I&APs are encouraged to share the most detailed data possible, to support knowledge about species distributions and provide baseline data for future assessment. 
 
 === Document control
 
@@ -33,7 +33,7 @@ Based on an earlier publication, and recommended to be read in conjunction with 
 
 === About GBIF
 
-GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth. Coordinated through its Secretariat in Copenhagen, the GBIF network of participating countries and organizations, working through participant nodes, provides data-holding institutions around the world with common standards and open-source tools that enable them to share information about where and when species have been recorded. For more information, visit https://www.gbif.org.
+GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world’s governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth. Coordinated through its Secretariat in Copenhagen, the GBIF network of participating countries and organizations, working through participant nodes, provides data-holding institutions around the world with common standards and open-source tools that enable them to share information about where and when species have been recorded. For more information, visit https://www.gbif.org.
 
 === About IAIA
 
