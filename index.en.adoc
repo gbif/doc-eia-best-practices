@@ -1,4 +1,4 @@
-= Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments [community review draft]
+= Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments
 Andrew Rodrigues; Dag Endresen; Rui Figueira; Cristina Villaverde; Miguel Vega; Nick King; Asha Raivanshi; Jo Treweek
 :toc: left
 :toclevels: 3
