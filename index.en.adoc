@@ -1,5 +1,5 @@
 = Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments
-Andrew Rodrigues; Dag Endresen; Rui Figueira; Cristina Villaverde; Miguel Vega; Nick King; Asha Raivanshi; Jo Treweek
+Andrew Rodrigues; Dag Endresen; Rui Figueira; Cristina Villaverde; Miguel Vega; Nick King; Asha Rajvanshi; Jo Treweek
 :toc: left
 :toclevels: 3
 :numbered:
