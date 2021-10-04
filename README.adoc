@@ -2,7 +2,7 @@ https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/docu
 https://doi.org/10.35035/doc-5xdm-8762[image:https://zenodo.org/badge/DOI/10.35035/doc-5xdm-8762.svg[doi:10.35035/doc-5xdm-8762]]
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 https://builds.gbif.org/job/doc-eia-best-practices/lastBuild/console[image:https://builds.gbif.org/job/doc-eia-best-practices/badge/icon[Build status]]
-https://crowdin.com/project/eia-guide[https://badges.crowdin.net/eia-guide/localized.svg[Translation progress]]
+https://crowdin.com/project/eia-guide[image:https://badges.crowdin.net/eia-guide/localized.svg[Translation progress]]
 
 = Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments
 
