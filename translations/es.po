@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-11-18 20:28\n"
+"PO-Revision-Date: 2021-11-18 21:34\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -527,74 +527,74 @@ msgstr "https://creativecommons.org/licenses/by/4.0/deed.es[CC BY 4.0^], para da
 #. type: Plain text
 #: 200.en.adoc:127
 msgid "https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC 4.0^], for data made available for any non-commercial use with appropriate attribution."
-msgstr ""
+msgstr "https://creativecommons.org/licenses/by-nc/4.0/deed.es[CC BY-NC 4.0^], para datos disponibles para cualquier uso no comercial con la debida atribución."
 
 #. type: Plain text
 #: 200.en.adoc:129
 msgid "Note that the CC-BY-NC license has a significant effect on the reusability of data, and that GBIF does not consider non-commercial use restrictions to be enforceable. GBIF encourages data publishers to choose the most open option possible."
-msgstr ""
+msgstr "Tenga en cuenta que la licencia CC-BY-NC tiene un efecto significativo en la reutilización de los datos y que GBIF no considera que las restricciones de uso no comercial sean exigibles. GBIF anima a los editores de datos a elegir la opción más abierta posible."
 
 #. type: Title ====
 #: 200.en.adoc:130
 #, no-wrap
 msgid "Step 6:  Discovering and citing data through GBIF"
-msgstr ""
+msgstr "Paso 6: Descubriendo y citando datos a través de GBIF"
 
 #. type: Plain text
 #: 200.en.adoc:133
 msgid "Once datasets are registered, GBIF indexes them to facilitate access to the data by users. Each dataset has its own page (https://doi.org/10.15468/q8qykg[example^]) and can be found using the search function on the website and on the publisher’s page (https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[example^]). The indexing process allows the search and discovery of records from all published datasets, showing, for example, all records of a particular species or groups of species in a given geographical area."
-msgstr ""
+msgstr "Una vez registrados los conjuntos de datos, GBIF los indexa para facilitar el acceso de los usuarios a los datos. Cada conjunto de datos tiene su propia página (https://doi.org/10.15468/q8qykg[ejemplo^]) y puede encontrarse utilizando la función de búsqueda en el sitio web y en la página del editor (https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[ejemplo^]). El proceso de indexación permite buscar y descubrir los registros de todos los conjuntos de datos publicados, mostrando, por ejemplo, todos los registros de una especie en concreta o de grupos de especies en una zona geográfica determinada."
 
 #. type: Plain text
 #: 200.en.adoc:135
 msgid "Because search results mix records from different datasets, the GBIF Data User Agreement requires appropriate citation of data regardless of the licence applied to any individual dataset. Through the use of https://www.doi.org[Digital Object Identifiers] (DOIs), GBIF tracks data reuse and provides publishers with key metrics for downloads, which appear the ‘activity’ tab of each dataset page (https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[example^]) and for documented citations in other research and assessments, linked from both https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=c7ecf786-d4ab-4708-87da-bc34e542be44[dataset^] and https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=fe602f47-b553-4291-b6e5-197b9837e167[publisher^] pages. Publishers can use this information to demonstrate the value of their contribution to science and society through sharing data from EIAs."
-msgstr ""
+msgstr "Debido a que los resultados de la búsqueda mezclan registros de diferentes conjuntos de datos, el Acuerdo de Usuario de Datos de GBIF requiere la citación apropiada de los datos, independientemente de la licencia aplicada a cualquier conjunto de datos individual. Mediante el uso de https://www.doi.org[Identificadores de Objetos Digitales] (DOIs), GBIF hace un seguimiento de la reutilización de los datos y proporciona a los editores métricas clave para las descargas, que aparecen en la pestaña de \"actividad\" de la página de cada conjunto de datos (https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[ejemplo^]) y para las citas documentadas en otras investigaciones y evaluaciones, enlazadas desde las páginas https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=c7ecf786-d4ab-4708-87da-bc34e542be44[conjunto de datos^] y https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=fe602f47-b553-4291-b6e5-197b9837e167[editor^]. Los editores pueden utilizar esta información para demostrar el valor de su contribución a la ciencia y a la sociedad compartiendo los datos de las EIA."
 
 #. type: Title ==
 #: appa.en.adoc:2
 #, no-wrap
 msgid "Methods and tools web sites: sources of additional assistance"
-msgstr ""
+msgstr "Sitios web de métodos y herramientas: fuentes de ayuda adicional"
 
 #. type: Plain text
 #: appa.en.adoc:5
 msgid "https://www.gbif.org/publishing-data[Getting started: overview of data publishing in the GBIF network^]"
-msgstr ""
+msgstr "https://www.gbif.org/publishing-data[Introducción: perspectiva general de la publicación de datos en la red de GBIF^]"
 
 #. type: Plain text
 #: appa.en.adoc:6
 msgid "https://ipt.gbif.org/manual/en/ipt/2.5/how-to-publish#instructions[GBIF IPT Manual: How to publish biodiversity data through GBIF.org]"
-msgstr ""
+msgstr "https://ipt.gbif.org/manual/es/ipt/2.5/how-to-publish[Manual del Usuario del IPT: Cómo publicar datos sobre biodiversidad a través de GBIF.org]"
 
 #. type: Plain text
 #: appa.en.adoc:8
 msgid "https://www.gbif.org/dataset-classes[GBIF types of datasets^], including spreadsheet templates"
-msgstr ""
+msgstr "https://www.gbif.org/es/dataset-classes[GBIF tipos de juegos de datos admitidos^], incluyendo plantillas de hojas de cálculo"
 
 #. type: Plain text
 #: appa.en.adoc:9
 msgid "https://www.gbif.org/data-quality-requirements[GBIF data quality Requirements^]"
-msgstr ""
+msgstr "https://www.gbif.org/data-quality-requirements[Requisitos de calidad de datos GBIF^]"
 
 #. type: Plain text
 #: appa.en.adoc:10
 msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]"
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles^]"
 
 #. type: Plain text
 #: appa.en.adoc:11
 msgid "https://dwc.tdwg.org/terms/[Darwin Core Quick Reference Guide^]"
-msgstr ""
+msgstr "https://dwc.tdwg.org/terms/[Guía Rápida de Referencia del Darwin Core^]"
 
 #. type: Plain text
 #: appa.en.adoc:12
 msgid "http://www.dublincore.org/documents/usageguide/elements/[Ecological Metadata Language Guide^]"
-msgstr ""
+msgstr "http://www.dublincore.org/documents/usageguide/elements/[Ecological Metadata Language Guide^]"
 
 #. type: Plain text
 #: appa.en.adoc:12
 msgid "https://www.gbif.org/the-gbif-network[GBIF Participants^]"
-msgstr ""
+msgstr "https://www.gbif.org/the-gbif-network[Participantes de GBIF^]"
 
 #. type: Title ==
 #: bibliography.en.adoc:2
