@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-10-04 14:06\n"
+"PO-Revision-Date: 2021-11-18 08:48\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,139 +20,139 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments"
-msgstr ""
+msgstr "Buenas Prácticas para la Publicación de Datos Sobre Biodiversidad Procedentes de Evaluaciones de Impacto Ambiental"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Andrew Rodrigues; Dag Endresen; Rui Figueira; Cristina Villaverde; Miguel Vega; Nick King; Asha Rajvanshi; Jo Treweek"
-msgstr ""
+msgstr "Andrew Rodrigues; Dag Endresen; Rui Figueira; Cristina Villaverde; Miguel Vega; Nick King; Asha Rajvanshi; Jo Treweek"
 
 #. type: Plain text
 #: index.en.adoc:13
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
+msgstr "img/web/photo.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. type: Title ===
 #: colophon.en.adoc:8
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Citación sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "GBIF Secretariat & IAIA (2020) Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-5xdm-8762"
-msgstr ""
+msgstr "GBIF Secretariat & IAIA (2020) Buenas Prácticas para la Publicación de Datos Sobre Biodiversidad Procedentes de Evaluaciones de Impacto Ambiental. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-5xdm-8762"
 
 #. type: Title ===
 #: colophon.en.adoc:12
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues] of the GBIF Secretariat, http://orcid.org/0000-0002-2352-5497[Dag Endresen] of GBIF Norway, https://orcid.org/0000-0002-8351-4028[Rui Figueira] of GBIF Portugal, https://orcid.org/0000-0001-9244-399X[Cristina Villaverde] and https://orcid.org/0000-0003-1885-7195[Miguel Vega] of GBIF Spain, and Nick King, Asha Rajvanshi and https://orcid.org/0000-0002-7113-2196[Jo Treweek] of IAIA contributed to this version of the document."
-msgstr ""
+msgstr "https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues] of the GBIF Secretariat, http://orcid.org/0000-0002-2352-5497[Dag Endresen] of GBIF Norway, https://orcid.org/0000-0002-8351-4028[Rui Figueira] of GBIF Portugal, https://orcid.org/0000-0001-9244-399X[Cristina Villaverde] and https://orcid.org/0000-0003-1885-7195[Miguel Vega] of GBIF Spain, and Nick King, Asha Rajvanshi and https://orcid.org/0000-0002-7113-2196[Jo Treweek] of IAIA contribuyeron a esta versión del documento."
 
 #. type: Title ===
 #: colophon.en.adoc:16
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licencia"
 
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr ""
+msgstr "Este documento _Buenas Prácticas para la Publicación de Datos Sobre Biodiversidad Procedentes de Evaluaciones de Impacto Ambiental_ se publica bajo una licencia https://creativecommons.org/licenses/by-sa/4.0/deed.es[Creative Commons Attribución-CompartirIgual 4.0 Internacional]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "https://doi.org/10.35035/doc-5xdm-8762"
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-5xdm-8762"
 
 #. type: Title ===
 #: colophon.en.adoc:24
 #, no-wrap
 msgid "Abstract"
-msgstr ""
+msgstr "Resumen"
 
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "This guide aims to help practitioners, consultants and other Interested & Affected Parties (I&APs) working with environmental impact assessments to improve the curation, archiving and management of primary biodiversity data captured during EIA processes and to share data freely and openly in standardized, accessible and interoperable formats through the Global Biodiversity Information Facility (GBIF). I&APs are encouraged to share the most detailed data possible, to support knowledge about species distributions and provide baseline data for future assessment."
-msgstr ""
+msgstr "Esta guía pretende ayudar a los profesionales, consultores y otras Partes Interesadas y Afectadas (I&AP por sus siglas en inglés) que trabajan con evaluaciones de impacto ambiental a mejorar la curaduria, el almacenamiento y la gestión de los datos primarios sobre biodiversidad obtenidos durante los procesos de Evaluación de Impacto Ambiental (EIA) y a compartir los datos de forma libre y abierta en formatos estandarizados, accesibles e interoperables a través del Infraestructura Mundial de Información en Biodiversidad (GBIF por sus siglas en inglés). Se anima a los I&AP a compartir los datos con el mayor detalle posible, para apoyar el conocimiento sobre la distribución de las especies y proporcionar datos de referencia para futuras evaluaciones."
 
 #. type: Title ===
 #: colophon.en.adoc:28
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Control del documento"
 
 #. type: Plain text
 #: colophon.en.adoc:30
 msgid "v1.0, December 2020"
-msgstr ""
+msgstr "v1.0, December 2020"
 
 #. type: Plain text
 #: colophon.en.adoc:32
 msgid "Based on an earlier publication: Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf."
-msgstr ""
+msgstr "Basado en una publicación anterior: Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Disponible en https://www.iaia.org/uploads/pdf/sp7.pdf."
 
 #. type: Title ===
 #: colophon.en.adoc:33
 #, no-wrap
 msgid "About GBIF"
-msgstr ""
+msgstr "Sobre GBIF"
 
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world’s governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth. Coordinated through its Secretariat in Copenhagen, the GBIF network of participating countries and organizations, working through participant nodes, provides data-holding institutions around the world with common standards and open-source tools that enable them to share information about where and when species have been recorded. For more information, visit https://www.gbif.org."
-msgstr ""
+msgstr "GBIF (Infraestructura Mundial de Información en Biodiversidad) es una red internacional y una infraestructura de datos financiada por los gobiernos del mundo y cuyo objetivo es proporcionar a cualquier persona, en cualquier lugar, acceso abierto a los datos sobre todos los tipos de vida en la Tierra. Coordinada a través de su Secretaría en Copenhague, la red GBIF de países y organizaciones participantes, que trabajan a través de nodos participantes, proporciona a las instituciones que poseen datos en todo el mundo normas comunes y herramientas de código abierto que les permiten compartir información sobre dónde y cuándo se han registrado las especies. Para más información visite https://www.gbif.org."
 
 #. type: Title ===
 #: colophon.en.adoc:37
 #, no-wrap
 msgid "About IAIA"
-msgstr ""
+msgstr "Sobre IAIA"
 
 #. type: Plain text
 #: colophon.en.adoc:40
 msgid "IAIA—the International Association for Impact Assessment—is the leading global network on best practice in the use of impact assessment for informed decision making regarding policies, programs, plans and projects. IAIA is committed to the promotion of sustainability, the freedom of access to information, and the right of citizens to have a voice in decisions that affect them. IAIA promotes the free ﬂow of complete, unbiased and accurate information to decision-makers and affected parties. This includes biodiversity information. IAIA’s Best Practice Principles on Biodiversity-Inclusive Impact Assessment promote transparent approaches and the sharing of biodiversity data. IAIA actively encourages its members to encourage their clients to share data using the GBIF facility. For more information, visit https://www.iaia.org."
-msgstr ""
+msgstr "La IAIA (Asociación Internacional de Evaluación del Impacto) es la principal red mundial sobre las buenas prácticas en el uso de la evaluación de impacto para la toma de decisiones informadas sobre políticas, programas, planes y proyectos. La IAIA está comprometida con la promoción de la sostenibilidad, la libertad de acceso a la información y el derecho de los ciudadanos a tener voz en las decisiones que les afectan. La IAIA promueve la difusión gratuita de información completa, imparcial y precisa a los responsables de la toma de decisiones y a las partes afectadas. Esto incluye la información sobre la biodiversidad. Los Principios de Buenas Prácticas Sobre la Evaluación de Impacto que Incluye a la Biodiversidad de la IAIA promueven enfoques transparentes y el intercambio de datos sobre biodiversidad. La IAIA anima activamente a sus miembros a que animen a sus clientes a compartir los datos utilizando el servicio GBIF. Para más información visite https://www.iaia.org."
 
 #. type: Title ===
 #: colophon.en.adoc:41
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "Imagen de portada"
 
 #. type: Plain text
 #: colophon.en.adoc:43
 msgid "Whale shark (_Rhincodon typus_), Australia. Photo 2009 Erik Schlogl via https://www.gbif.org/occurrence/1453193080[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr ""
+msgstr "Tiburón ballena (_Rhincodon typus_), Australia. Foto 2009 Erik Schlogl vía https://www.gbif.org/occurrence/1453193080[iNaturalist research-grade observations], licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: intro.en.adoc:1
 #, no-wrap
 msgid "Introduction"
-msgstr ""
+msgstr "Introducción"
 
 #. type: Plain text
 #: intro.en.adoc:4
@@ -334,13 +334,13 @@ msgstr ""
 #: 200.en.adoc:50
 #, no-wrap
 msgid "Figure 1"
-msgstr ""
+msgstr "Figura 1"
 
 #. type: Target for macro image
 #: 200.en.adoc:50
 #, no-wrap
 msgid "img/web/figure-01.png"
-msgstr ""
+msgstr "img/web/figure-01.png"
 
 #. type: Title ====
 #: 200.en.adoc:54
@@ -573,32 +573,32 @@ msgstr ""
 #: bibliography.en.adoc:2
 #, no-wrap
 msgid "References and further reading"
-msgstr ""
+msgstr "Referencias y lecturas adicionales"
 
 #. type: Plain text
 #: bibliography.en.adoc:5
 msgid "Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011). Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. IAIA Special Publication Series No. 7. https://www.iaia.org/uploads/pdf/sp7.pdf"
-msgstr ""
+msgstr "Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011). Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. IAIA Special Publication Series No. 7. https://www.iaia.org/uploads/pdf/sp7.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:6
 msgid "Chapman AD (2005) Principles of Data Quality. Version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc.jrgg-a190"
-msgstr ""
+msgstr "Chapman AD (2005) Principles of Data Quality. Version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc.jrgg-a190"
 
 #. type: Plain text
 #: bibliography.en.adoc:7
 msgid "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
-msgstr ""
+msgstr "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
 
 #. type: Plain text
 #: bibliography.en.adoc:8
 msgid "King N, Rajvanshi A, Willoughby S, Roberts R, Mathur VB, Cadman M & Chavan V (2012) Improving access to biodiversity data for, and from, EIAs – a data publishing framework built to global standards. Impact Assessment and Project Appraisal 30(3): 148-156. https://doi.org/10.1080/14615517.2012.705068."
-msgstr ""
+msgstr "King N, Rajvanshi A, Willoughby S, Roberts R, Mathur VB, Cadman M & Chavan V (2012) Improving access to biodiversity data for, and from, EIAs – a data publishing framework built to global standards. Impact Assessment and Project Appraisal 30(3): 148-156. https://doi.org/10.1080/14615517.2012.705068."
 
 #. type: Plain text
 #: bibliography.en.adoc:9
 msgid "[[rajvanshi]] Rajvanshi A, Mathur V & Iftikhar UA (2007). Best-practice guidance for biodiversity inclusive impact assessment: a manual for practitioners and reviewers in South East Asia. CBBIA-IAIA Guidance Series. Rapid City, N.D., USA: International Association for Impact Assessment."
-msgstr ""
+msgstr "[[rajvanshi]] Rajvanshi A, Mathur V & Iftikhar UA (2007). Best-practice guidance for biodiversity inclusive impact assessment: a manual for practitioners and reviewers in South East Asia. CBBIA-IAIA Guidance Series. Rapid City, N.D., USA: International Association for Impact Assessment."
 
 #. type: Plain text
 #: bibliography.en.adoc:10
