@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-11-18 17:00\n"
+"PO-Revision-Date: 2021-11-18 17:58\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -331,18 +331,18 @@ msgstr "GBIF proporciona un medio para compartir datos de biodiversidad a travé
 #. type: Plain text
 #: 200.en.adoc:45
 msgid "This guide will help environmental assessment practitioners (EAPs), consultants and other interested and affected parties to choose the most suitable option or tool for publishing the primary biodiversity data they have gathered, as an integral part of the EIA process."
-msgstr ""
+msgstr "Esta guía ayudará a los profesionales de la evaluación ambiental (EAP por sus siglas en inglés), a los consultores y a otras partes interesadas y afectadas a elegir la opción o la herramienta más adecuada para publicar los datos primarios sobre biodiversidad que han recopilado, como parte integral del proceso de EIA."
 
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "As a first step towards publishing biodiversity data, EAPs can seek assistance from the wide https://www.gbif.org/the-gbif-network[network of GBIF national, regional and thematic Participants^]. A majority of these nodes encourage, coordinate and assist in biodiversity data publishing activities within their respective jurisdictions and domains. If the EAP’s operations fall outside of the GBIF network e.g. in a country where there is no node, then the mailto:helpdesk@gbif.org[GBIF help desk] can provide additional support."
-msgstr ""
+msgstr "Como primer paso hacia la publicación de datos de biodiversidad, los EAP pueden buscar ayuda en la amplia https://www.gbif.org/the-gbif-network[red de participantes nacionales, regionales y temáticos de GBIF^]. La mayoría de estos nodos fomentan, coordinan y ayudan en las actividades de publicación de datos de biodiversidad dentro de sus respectivas jurisdicciones y dominios. Si las operaciones del EAP quedan fuera de la red de GBIF, por ejemplo, en un país donde no hay ningún nodo, entonces el mailto:helpdesk@gbif.org[servicio de ayuda de GBIF] puede proporcionar apoyo adicional."
 
 #. type: Block title
 #: 200.en.adoc:49
 #, no-wrap
 msgid "Data publishing workflow: steps for publishing data on GBIF.org"
-msgstr ""
+msgstr "Flujo de trabajo de publicación de datos: pasos para publicar datos en GBIF.org"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: 200.en.adoc:50
@@ -360,7 +360,7 @@ msgstr "img/web/figure-01.png"
 #: 200.en.adoc:54
 #, no-wrap
 msgid "Step 1: Becoming a data publisher"
-msgstr ""
+msgstr "Paso 1: Convirtiéndose en publicador de datos"
 
 #. type: Plain text
 #: 200.en.adoc:57
