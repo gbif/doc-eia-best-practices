@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-11-18 15:01\n"
+"PO-Revision-Date: 2021-11-18 16:03\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -183,12 +183,12 @@ msgstr "Ventajas de compartir los datos sobre biodiversidad "
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "Companies responsible for ordering or conducting EIAs can accrue both operational and reputational benefits by sharing biodiversity data through GBIF and similar open access data platforms. Specifically, publishing primary biodiversity data from EIAs:"
-msgstr ""
+msgstr "Las empresas responsables de solicitar o realizar EIA pueden obtener beneficios tanto operativos como de reputación al compartir los datos sobre biodiversidad a través de GBIF y otras plataformas de datos de acceso abierto similares. En concreto, la publicación de datos primarios sobre biodiversidad procedentes de las EIA:"
 
 #. type: Plain text
 #: 100.en.adoc:7
 msgid "Provides long-term cost savings and improved understanding of natural heritage of project areas by leveraging existing biodiversity information from earlier data collection efforts"
-msgstr ""
+msgstr "Proporciona un ahorro de costos a largo plazo y una mejor comprensión del patrimonio natural de las zonas del proyecto al aprovechar la información sobre biodiversidad colectada en esfuerzos anteriores"
 
 #. type: Plain text
 #: 100.en.adoc:8
