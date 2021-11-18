@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-11-18 08:48\n"
+"PO-Revision-Date: 2021-11-18 15:01\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -157,28 +157,28 @@ msgstr "Introducción"
 #. type: Plain text
 #: intro.en.adoc:4
 msgid "Data from biodiversity baseline assessment and monitoring plays a crucial role in understanding current and potential future impacts of development on the natural environment, whether these impacts are from industrial, infrastructure, agricultural, extractive or other projects. Data about the occurrence of species in space and time are needed to underpin efforts to avoid, mitigate, restore or offset impacts on biodiversity through the Mitigation Hierarchy. Effective decision-making in this area is also crucial for aligning with international best practices and fulfilling international commitments under the https://sustainabledevelopment.un.org/[UN Sustainable Development Goals] and the https://www.cbd.int/[Convention on Biological Diversity]."
-msgstr ""
+msgstr "Los datos procedentes de la evaluación y el seguimiento de referencia de la biodiversidad tienen un papel crucial en la comprensión de los impactos actuales y los potenciales impactos futuros del desarrollo en el entorno natural, ya sea por proyectos industriales, de infraestructuras, agrícolas, extractivos o de otro tipo. Los datos sobre la presencia de especies en el espacio y el tiempo son necesarios para respaldar los esfuerzos por evitar, mitigar, restaurar o compensar los impactos sobre la biodiversidad a través de la Jerarquía de Mitigación. La toma de decisiones eficaz en este ámbito también es crucial para alinearse con las mejores prácticas internacionales y cumplir con los compromisos internacionales en virtud de los https://www.un.org/sustainabledevelopment/es/ [Objetivos de Desarrollo Sostenible de la ONU] y el https://www.cbd.int/ [Convenio de la Diversidad Biológica]."
 
 #. type: Plain text
 #: intro.en.adoc:6
 msgid "Gathering biodiversity data is one of the most expensive and time-consuming components of the impact assessment process. During field surveys, experts must account for the range of species and habitats, as well as migratory patterns and life cycles of species across seasons. While aligning data collection periods with project and financing life cycles can be a challenge, failure to plan repeat visits across different seasons can lead to project delays, additional costs and failure to understand differences in likely impacts over time. The scarcity of available resources in developing countries often adds further limitations in the amount of existing data available for EIAs, even in areas known to be biologically rich and diverse."
-msgstr ""
+msgstr "La recopilación de datos sobre biodiversidad es uno de los componentes más costosos y largos del proceso de evaluación del impacto. Durante los estudios en campo, los expertos deben tener en el rango de las especies y hábitats, así como los patrones migratorios y los ciclos de vida de las especies a lo largo de las estaciones. Aunque alinear las temporadas de recogida de datos con los ciclos de vida de los proyectos y la financiación puede ser un reto, no planificar visitas repetidas a lo largo de las diferentes estaciones puede provocar retrasos en el proyecto, costos adicionales e incapacidad para comprender diferencias en los impactos potencias a lo largo del tiempo. La escasez de recursos disponibles en los países en vía de desarrollo suele añadir más limitaciones a la cantidad de datos existentes disponibles para las EIA, incluso en zonas conocidas por su riqueza y diversidad biológica."
 
 #. type: Plain text
 #: intro.en.adoc:8
 msgid "Despite its potential value beyond any given project, biodiversity assessment and monitoring data are rarely shared. Instead, valuable datasets remain archived within company databases and systems where they fail to yield returns on the significant amounts of time and money already invested in them."
-msgstr ""
+msgstr "A pesar de su potencial valor más allá de cualquier proyecto, los datos de evaluación y seguimiento de la biodiversidad rara vez se comparten. En su lugar, los valiosos conjuntos de datos permanecen archivados en las bases de datos y los sistemas de las empresas, donde no consiguen dar frutos de las importantes cantidades de tiempo y dinero invertidas en ellos."
 
 #. type: Plain text
 #: intro.en.adoc:9
 msgid "GBIF—the Global Biodiversity Information Facility—is an international network and research infrastructure that makes biodiversity data freely and openly accessible to scientists, researchers, authorities and citizens anywhere. Its aim is to produce economic and social benefits and enable sustainable development by providing sound scientific evidence on biodiversity. To that end, GBIF and its global community of practice provide a suite of standards, tools and infrastructure to support the management, publication, use and reuse of primary biodiversity data. This guide updates https://www.iaia.org/uploads/pdf/sp7.pdf[Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide] (2011), a joint publication of GBIF and IAIA, offering a current view of how EIA practitioners can make more effective use of these resources."
-msgstr ""
+msgstr "GBIF (Global Biodiversity Information Facility) es una red internacional y una infraestructura de investigación que hace que los datos de biodiversidad estén libres y abiertamente accesibles para científicos, investigadores, autoridades y ciudadanos de cualquier lugar. Su objetivo es producir beneficios económicos y sociales y permitir el desarrollo sostenible proporcionando evidencia científica sólida sobre la biodiversidad. Para ello, GBIF y su comunidad global de prácticas proporcionan un conjunto de estándares, herramientas e infraestructura para apoyar la gestión, publicación, uso y reutilización de datos primarios sobre biodiversidad. Esta guía actualiza https://www.iaia.org/uploads/pdf/sp7.pdf[Publishing EIA-Related Primary Biodiversity Data: Guía de buenas prácticas de GBIF-IAIA] (2011), una publicación conjunta de GBIF e IAIA, que ofrece una visión actual de cómo los profesionales de la EIA pueden hacer un uso más eficaz de estos recursos."
 
 #. type: Title ==
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Benefits of sharing biodiversity data "
-msgstr ""
+msgstr "Ventajas de compartir los datos sobre biodiversidad "
 
 #. type: Plain text
 #: 100.en.adoc:5
