@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-11-18 17:58\n"
+"PO-Revision-Date: 2021-11-18 19:23\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -365,23 +365,23 @@ msgstr "Paso 1: Convirtiéndose en publicador de datos"
 #. type: Plain text
 #: 200.en.adoc:57
 msgid "Once an organization agrees to share EIA data, its staff must establish provisions ensuring that stakeholders in each stage of data collection, curation and management agree to the terms by which data publishing takes place and are properly acknowledged in their role. These provisions should include agreeing to the GBIF https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes) and understanding the conditions of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that users of GBIF-mediated data must abide when reusing data."
-msgstr ""
+msgstr "Una vez que una organización accede a compartir datos de EIA, su personal debe establecer cláusulas que garanticen que en cada etapa de la colecta, curaduría y gestión de datos las partes interesadas están de acuerdo con las condiciones en las que se produce la publicación de datos y sean debidamente reconocidas en su función. Estas cláusulas deben incluir la aceptación del https://www.gbif.org/terms/data-publisher[Acuerdo de Publicación de Datos^] de GBIF (la versión en inglés es válida a efectos legales) y la comprensión de las condiciones del https://www.gbif.org/terms/data-user[Acuerdo del Uso de Datos^] de GBIF que los usuarios de los datos mediados por GBIF deben cumplir al reutilizar los datos."
 
 #. type: Title ====
 #: 200.en.adoc:59
 #, no-wrap
 msgid "Step 2. Data capture"
-msgstr ""
+msgstr "Paso 2: Captura de datos"
 
 #. type: Plain text
 #: 200.en.adoc:62
 msgid "Ensuring the standardization of data capture at point of collection will"
-msgstr ""
+msgstr "Garantizar la estandarización de la captura de datos en el momento de la colecta permitirá"
 
 #. type: Plain text
 #: 200.en.adoc:64
 msgid "make it easier for EAPs to collect and manage primary biodiversity data"
-msgstr ""
+msgstr "facilitar a los EAP la colecta y gestión de datos primarios sobre biodiversidad"
 
 #. type: Plain text
 #: 200.en.adoc:65
