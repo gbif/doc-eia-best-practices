@@ -39,7 +39,7 @@ GBIF publishes https://www.gbif.org/dataset-classes[four different classes of da
 
 === Operating principles: Steps in the publishing process
 
-GBIF provides a means of sharing biodiversity data through a publishing process that uses simple tools and follows standard procedures and protocols to make it universally accessible over the Internet. Data publishing through the GBIF network follows a series of clear steps, shown in <<figure-01,Figure 1>>. Each of these steps is described in more detail in the subsequent sections of this document.
+GBIF provides a means of sharing biodiversity data through a publishing process that uses simple tools and follows standard procedures and protocols to make it universally accessible over the Internet. Data publishing through the GBIF network follows a series of clear steps, shown in <<figure-01,Table 2>>. Each of these steps is described in more detail in the subsequent sections of this document.
 
 This guide will help environmental assessment practitioners (EAPs), consultants and other interested and affected parties to choose the most suitable option or tool for publishing the primary biodiversity data they have gathered, as an integral part of the EIA process.
 
@@ -47,7 +47,42 @@ As a first step towards publishing biodiversity data, EAPs can seek assistance f
 
 [[figure-01]]
 .Data publishing workflow: steps for publishing data on GBIF.org
-image::img/web/figure-01.png[Figure 1,align=center]
+[cols="2*^.^1a",role="workflow",frame=none,stripes=none]
+|===
+|*1. Publisher Registration*
+
+Registration of organization as a data publisher
+
+|Request endorsement from GBIF at https://www.gbif.org/become-a-publisher[GBIF.org/become-a-publisher].
+
+|*2. Data Capture*
+
+Collection of species occurrence data and metadata
+
+|Use templates for digitizing data into standard formats.
+
+|*3. Tool Selection*
+
+GBIF-supplied tools that provide access to data in a standard format
+
+|Select a data hosting solution and use the Integrated Publishing Toolkit for publishing.
+
+|*4. Data Preparation*
+
+Preparation of data to confirm with standard data exchange formats
+
+|Align data to GBIF data quality requirements and generalize data for sensitive species.
+
+|*5. Data Publication*
+
+Registration of web-based data access points in the GBIF registry
+
+|Publish data with appropriate data license
+
+|*6. Data Discovery*
+
+|Access, search and filter data via https://www.gbif.org[GBIF.org] or the Application Programming Interface (API).
+|===
 
 :sectnums!:
 
