@@ -117,7 +117,7 @@ Publishers should use a precautionary approach and seek input from specialists o
 
 ==== Step 5: Publishing data to GBIF
 
-The GBIF IPT supports automatic registration in the GBIF network (see the https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki[IPT manual^]). If publishers are using an IPT, GBIF registers datasets when publishers click the ‘register’ button. Data should be published as soon as possible following the EIA. However, if there are concerns about commercial confidentiality or other time-sensitive issues, publication may be delayed or embargoed until the completion of a licensing process. 
+The GBIF IPT supports automatic registration in the GBIF network (see the https://ipt.gbif.org/manual/[IPT manual^]). If publishers are using an IPT, GBIF registers datasets when publishers click the ‘register’ button. Data should be published as soon as possible following the EIA. However, if there are concerns about commercial confidentiality or other time-sensitive issues, publication may be delayed or embargoed until the completion of a licensing process. 
 
 To publish data to GBIF, publishers must assign one of three Creative Commons licences to a dataset:
 
