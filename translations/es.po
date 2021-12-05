@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-11-18 21:34\n"
+"PO-Revision-Date: 2021-12-05 20:19\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments"
-msgstr "Buenas Prácticas para la Publicación de Datos Sobre Biodiversidad Procedentes de Evaluaciones de Impacto Ambiental"
+msgstr "Buenas prácticas para la publicación de datos sobre biodiversidad procedentes de evaluaciones de impacto ambiental"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -64,7 +64,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues] of the GBIF Secretariat, http://orcid.org/0000-0002-2352-5497[Dag Endresen] of GBIF Norway, https://orcid.org/0000-0002-8351-4028[Rui Figueira] of GBIF Portugal, https://orcid.org/0000-0001-9244-399X[Cristina Villaverde] and https://orcid.org/0000-0003-1885-7195[Miguel Vega] of GBIF Spain, and Nick King, Asha Rajvanshi and https://orcid.org/0000-0002-7113-2196[Jo Treweek] of IAIA contributed to this version of the document."
-msgstr "https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues] of the GBIF Secretariat, http://orcid.org/0000-0002-2352-5497[Dag Endresen] of GBIF Norway, https://orcid.org/0000-0002-8351-4028[Rui Figueira] of GBIF Portugal, https://orcid.org/0000-0001-9244-399X[Cristina Villaverde] and https://orcid.org/0000-0003-1885-7195[Miguel Vega] of GBIF Spain, and Nick King, Asha Rajvanshi and https://orcid.org/0000-0002-7113-2196[Jo Treweek] of IAIA contribuyeron a esta versión del documento."
+msgstr "https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues] del Secretariado de GBIF, http://orcid.org/0000-0002-2352-5497[Dag Endresen] de GBIF Noruega, https://orcid.org/0000-0002-8351-4028[Rui Figueira] de GBIF Portugal, https://orcid.org/0000-0001-9244-399X[Cristina Villaverde] 7 https://orcid.org/0000-0003-1885-7195[Miguel Vega] de GBIF España, y Nick King, Asha Rajvanshi y https://orcid.org/0000-0002-7113-2196[Jo Treweek] de IAIA contribuyeron a esta versión del documento."
 
 #. type: Title ===
 #: colophon.en.adoc:16
