@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-12-05 22:59\n"
+"PO-Revision-Date: 2021-12-05 23:55\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -326,7 +326,7 @@ msgstr "Principios operativos: pasos del proceso de publicación"
 #. type: Plain text
 #: 200.en.adoc:43
 msgid "GBIF provides a means of sharing biodiversity data through a publishing process that uses simple tools and follows standard procedures and protocols to make it universally accessible over the Internet. Data publishing through the GBIF network follows a series of clear steps, shown in <<figure-01,Figure 1>>. Each of these steps is described in more detail in the subsequent sections of this document."
-msgstr "GBIF proporciona un medio para compartir datos de biodiversidad a través de un proceso de publicación que utiliza herramientas sencillas y sigue procedimientos y protocolos estándar para hacerlos accesibles universalmente a través de Internet. La publicación de datos a través de la red de GBIF sigue una serie de pasos claros, mostrados en la <<figura-01,Figura 1>>. Cada uno de estos pasos se describe con más detalle en las siguientes secciones de este documento."
+msgstr "GBIF proporciona un medio para compartir datos de biodiversidad a través de un proceso de publicación que utiliza herramientas sencillas y sigue procedimientos y protocolos estándar para hacer los datos accesibles universalmente a través de Internet. La publicación de datos a través de la red de GBIF sigue una serie de pasos claros, mostrados en la <<figura-01,Figura 1>>. Cada uno de estos pasos se describe con más detalle en las siguientes secciones de este documento."
 
 #. type: Plain text
 #: 200.en.adoc:45
@@ -365,13 +365,13 @@ msgstr "Paso 1: Convirtiéndose en publicador de datos"
 #. type: Plain text
 #: 200.en.adoc:57
 msgid "Once an organization agrees to share EIA data, its staff must establish provisions ensuring that stakeholders in each stage of data collection, curation and management agree to the terms by which data publishing takes place and are properly acknowledged in their role. These provisions should include agreeing to the GBIF https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes) and understanding the conditions of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that users of GBIF-mediated data must abide when reusing data."
-msgstr "Una vez que una organización accede a compartir datos de EIA, su personal debe establecer cláusulas que garanticen que en cada etapa de la colecta, curaduría y gestión de datos las partes interesadas están de acuerdo con las condiciones en las que se produce la publicación de datos y sean debidamente reconocidas en su función. Estas cláusulas deben incluir la aceptación del https://www.gbif.org/terms/data-publisher[Acuerdo de Publicación de Datos^] de GBIF (la versión en inglés es válida a efectos legales) y la comprensión de las condiciones del https://www.gbif.org/terms/data-user[Acuerdo del Uso de Datos^] de GBIF que los usuarios de los datos mediados por GBIF deben cumplir al reutilizar los datos."
+msgstr "Una vez que una organización accede a compartir datos de EIA, su personal debe establecer cláusulas que garanticen que en cada etapa de la colecta, curaduría y gestión de los datos, las partes interesadas están de acuerdo con las condiciones en las que se produce la publicación de datos y que sean debidamente reconocidas en su rol. Estas cláusulas deben incluir la aceptación del https://www.gbif.org/terms/data-publisher[acuerdo de publicación de datos^] de GBIF (la versión en inglés es válida a efectos legales) y la comprensión de las condiciones del https://www.gbif.org/terms/data-user[acuerdo del uso de datos^] de GBIF que los usuarios de los datos mediados por GBIF deben cumplir al reutilizar los datos."
 
 #. type: Title ====
 #: 200.en.adoc:59
 #, no-wrap
 msgid "Step 2. Data capture"
-msgstr "Paso 2: Captura de datos"
+msgstr "Paso 2: captura de datos"
 
 #. type: Plain text
 #: 200.en.adoc:62
@@ -401,7 +401,7 @@ msgstr "GBIF se basa principalmente en los estándares Darwin Core (DwC) y Ecolo
 #. type: Plain text
 #: 200.en.adoc:70
 msgid "GBIF provides https://www.gbif.org/dataset-classes[pre-configured Excel spreadsheets^] that can serve as templates for capturing checklist, occurrence and sampling-event data. These spreadsheets are simple tools aimed at providing a common format and standard for collecting data. They use consistent terminology and can be completed with additional DwC terms to fit the data collection purpose. This standardized approach makes it easier to exchange data between users, compare it across sites, and integrate it into national and global biodiversity databases. No metadata template is provided as publishers can use the built-in metadata editor in GBIF’s data publication tool–the Integrated Publishing Toolkit (IPT) (see <<step-03,Step 3>> below)–to populate the metadata. The IPT ensures that the data and metadata are in a valid XML format."
-msgstr "GBIF proporciona https://www.gbif.org/dataset-classes[hojas de cálculo Excel preconfiguradas^] que pueden servir como plantillas para capturar datos de listados de especies, presencia y eventos de muestreo. Estas hojas de cálculo son herramientas sencillas destinadas a proporcionar un formato común y un estándar para la colecta de datos. Utilizan una terminología coherente y pueden completarse con términos adicionales de DwC para ajustarse al propósito de la colecta de datos. Este enfoque estandarizado facilita el intercambio de datos entre usuarios, la comparación entre sitios y su integración en bases de datos de biodiversidad nacionales y mundiales. No se proporciona ninguna plantilla de metadatos, ya que los editores pueden utilizar el editor de metadatos incorporado en la herramienta de publicación de datos de GBIF, la Herramienta Integrada de Publicación (IPT) (ver <<step-03, Paso 3>> más abajo)- para ingresar los metadatos. El IPT asegura que los datos y los metadatos estén en un formato XML válido."
+msgstr "GBIF proporciona https://www.gbif.org/dataset-classes[hojas de cálculo Excel preconfiguradas^] que pueden servir como plantillas para capturar datos de listados de especies, registros biológicos y eventos de muestreo. Estas hojas de cálculo son herramientas sencillas destinadas a proporcionar un formato común y un estándar para la colecta de datos. Utilizan una terminología coherente y pueden completarse con términos adicionales de DwC para ajustarse al propósito de la colecta de datos. Este enfoque estandarizado facilita el intercambio de datos entre usuarios, la comparación entre sitios y su integración en bases de datos de biodiversidad nacionales y mundiales. No se proporciona ninguna plantilla de metadatos, ya que los editores pueden utilizar el editor de metadatos incorporado en la herramienta de publicación de datos de GBIF, la \"Herramienta integrada de publicación (IPT)\" (ver <<step-03, Paso 3>> más abajo) para ingresar los metadatos. El IPT asegura que los datos y los metadatos estén en un formato XML válido."
 
 #. type: Block title
 #: 200.en.adoc:72
@@ -428,16 +428,16 @@ msgid "|Concern\n"
 "|“Free riders” exist in any commons, but a large common pool resource like GBIF is not depleted by use, and parties that do participate typically build receptive capacity to understand the issues and limitations of the resource better than those who don’t\n"
 msgstr "|Preocupación\n"
 "|Respuesta\n\n"
-"|Proporcionar datos precisos sobre la presencia de especies sensibles (p. ej. en peligro de extinción, de gran valor) podría conducir a la caza furtiva o a la piratería\n"
-"|Las coordenadas geográficas pueden ser generalizadas y otra información pueden ser retenida en la versión publicada de los datos (véase https://doi.org/10.15468/doc-5jp4-5g10[orientación detallada^])\n\n"
+"|Proporcionar datos precisos de registros biológicos de especies sensibles (p. ej. en peligro de extinción, de gran valor) podría conducir a la caza furtiva o a la piratería\n"
+"|Las coordenadas geográficas pueden ser generalizadas y otra información puede ser retenida en la versión publicada de los datos (ver https://doi.org/10.15468/doc-5jp4-5g10[orientación detallada^])\n\n"
 "|Sensibilidad comercial de los datos durante el periodo de licencia\n"
 "|La publicación de los datos puede retrasarse hasta que el proyecto reciba la aprobación.\n\n"
 "|La empresa se enfrenta a un posible riesgo de reputación si, por ejemplo, se afecta la biodiversidad\n"
 "|Con el tiempo, el aumento de los datos abiertos sobre la distribución de las especies permitirá realizar evaluaciones más sólidas y transparentes de los daños específicos del lugar que pueden proporcionar dividendos de reputación\n\n"
 "|El intercambio de datos puede requerir la aprobación y el compromiso de los gobiernos.\n"
-"|https://www.cbd.int/doc/decisions/cop-13/cop-13-dec-31-en.pdf[Las directrices del Convenio de la Diversidad Biológica] fomentan el intercambio de datos abierto, y la movilización de datos a través de GBIF es un https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif[indicador de progreso hacia la Meta 19 Aichi de Biodiversidad]\n\n"
+"|https://www.cbd.int/doc/decisions/cop-13/cop-13-dec-31-en.pdf[Las directrices del \"Convenio de la diversidad biológica\"] fomentan el intercambio de datos abiertos y la movilización de datos a través de GBIF es un https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif[indicador de progreso hacia la meta 19 Aichi de biodiversidad]\n\n"
 "|La empresa podría incurrir en costos adicionales y requerir un esfuerzo adicional para supervisar y compartir los datos\n"
-"|Los costos del seguimiento deberían estar incluidos en el presupuesto del proyecto; la publicación es gratuita y los datos de acceso abierto pueden suponer un ahorro a largo plazo\n\n"
+"|Los costos del seguimiento deberían estar incluidos en el presupuesto del proyecto. La publicación es gratuita y los datos de acceso abierto pueden suponer un ahorro a largo plazo\n\n"
 "|Las empresas que no invierten en compartir datos pueden beneficiarse de los datos gratuitos y abiertos disponibles a través de GBIF más que otras que contribuyen a su suministro y mantenimiento\n"
 "|Los \"aprovechados\" existen en cualquier bien común, pero un gran recurso común como GBIF no se agota por el uso y las partes que participan suelen construir una capacidad receptiva para entender los problemas y las limitaciones del recurso mejor que los que no lo hacen\n"
 
@@ -445,37 +445,37 @@ msgstr "|Preocupación\n"
 #: 200.en.adoc:98
 #, no-wrap
 msgid "Step 3: Selecting a tool to prepare data for publishing"
-msgstr "Paso 3: Seleccionando una herramienta para preparar los datos para su publicación"
+msgstr "Paso 3: seleccionando una herramienta para preparar los datos para su publicación"
 
 #. type: Plain text
 #: 200.en.adoc:101
 msgid "GBIF.org does not itself host data. The system relies on each data publisher maintaining their own datasets and making them available online in a GBIF-supported format. It also relies on organizations registering datasets and providing GBIF with a stable endpoint for finding and indexing the data. GBIF recommends using the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) to do this. Highly skilled publishers can also use an API to register datasets programmatically (contact the mailto:helpdesk@gbif.org[GBIF help desk] for more details)."
-msgstr "GBIF.org no alberga datos por sí mismo. El sistema depende de que cada editor de datos mantenga sus propios conjuntos de datos y los ponga a disposición en línea en un formato compatible con GBIF. También depende de que las organizaciones registren los conjuntos de datos y proporcionen a GBIF un punto final estable para encontrar e indexar los datos. GBIF recomienda utilizar la https://www.gbif.org/ipt[Herramienta Integrada de Publicación^] (IPT) para hacerlo. Los editores altamente cualificados también pueden utilizar una API para registrar conjuntos de datos de forma programada (contacte al mailto:helpdesk@gbif.org[servicio de ayuda de GBIF] para más detalles)."
+msgstr "GBIF.org no alberga datos por sí mismo. El sistema depende de que cada editor de datos mantenga sus propios conjuntos de datos y los ponga a disposición en línea en un formato compatible con GBIF. También depende de que las organizaciones registren los conjuntos de datos y proporcionen a GBIF un punto final estable para encontrar e indexar los datos. GBIF recomienda utilizar la https://www.gbif.org/ipt[\"Herramienta integrada de publicación^\"] (IPT) para hacerlo. Los editores altamente cualificados también pueden utilizar una API para registrar conjuntos de datos de forma programada (contacte al mailto:helpdesk@gbif.org[servicio de ayuda de GBIF] para más detalles)."
 
 #. type: Plain text
 #: 200.en.adoc:103
 msgid "Organizations may install the IPT if they have the capacity to host and maintain data on servers that always remain online, ensuring that the data that they share will have a persistent, stable point of access. An organization that either does not have this capacity or does not wish to maintain its own installation can choose one of the following options for data hosting (more details available https://www.gbif.org/article/4qfLORxmM8kYOIwSYSMc2M/data-hosting[here^]):"
-msgstr "Las organizaciones pueden instalar la IPT si tienen la capacidad de alojar y mantener los datos en servidores que permanezcan siempre en línea, garantizando que los datos que comparten tendrán un punto de acceso persistente y estable. Una organización que no tenga esta capacidad o no desee mantener su propia instalación puede elegir una de las siguientes opciones para el alojamiento de datos (más detalles disponibles https://www.gbif.org/article/4qfLORxmM8kYOIwSYSMc2M/data-hosting[aquí^]):"
+msgstr "Las organizaciones pueden instalar el IPT si tienen la capacidad de alojar y mantener los datos en servidores que permanezcan siempre en línea, garantizando que los datos que comparten tendrán un punto de acceso persistente y estable. Una organización que no tenga esta capacidad o no desee mantener su propia instalación puede elegir una de las siguientes opciones para el alojamiento de datos (más detalles disponibles https://www.gbif.org/article/4qfLORxmM8kYOIwSYSMc2M/data-hosting[aquí^]):"
 
 #. type: Plain text
 #: 200.en.adoc:105
 msgid "Data hosted at a national node (if the country is a GBIF Participant)"
-msgstr "Datos alojados en un nodo nacional (si el país es Participante de GBIF)"
+msgstr "Datos alojados en un nodo nacional (si el país es participante de GBIF)"
 
 #. type: Plain text
 #: 200.en.adoc:106
 msgid "Hosted by another GBIF Participant or data publisher"
-msgstr "Alojado por otro Participante de GBIF o editor de datos"
+msgstr "Alojado por otro participante de GBIF o editor de datos"
 
 #. type: Plain text
 #: 200.en.adoc:107
 msgid "Cloud-hosted IPTs maintained by GBIF Secretariat"
-msgstr "IPTs alojados en la nube y mantenidos por la Secretaría de GBIF"
+msgstr "IPT alojados en la nube y mantenidos por el Secretariado de GBIF"
 
 #. type: Plain text
 #: 200.en.adoc:109
 msgid "The first two options provide a range of helpdesk services to potential publishers, while the final option provides very limited support to publishers. Potential publishers can request guidance from the mailto:helpdesk@gbif.org[GBIF help desk] on the most suitable option. Regardless of the hosting option selected, data publishers retain full control of the data, including the ability to correct and update datasets at any time. Data citations will always acknowledge the data publisher, irrespective of how or where the datasets are hosted."
-msgstr "Las dos primeras opciones ofrecen una serie de servicios de asistencia a los potenciales editores, mientras que la última opción ofrece un apoyo muy limitado a los editores. Los potenciales editores pueden solicitar orientación al mailto:helpdesk@gbif.org[servicio de ayuda de GBIF] sobre la opción más adecuada. Independientemente de la opción de alojamiento seleccionada, los editores de datos tienen el control total de los mismos, incluyendo la capacidad de corregir y actualizar los conjuntos de datos en cualquier momento. Las citas de los datos siempre reconocerán al editor de datos, independientemente de cómo o dónde se alojen los conjuntos de datos."
+msgstr "Las primeras dos opciones ofrecen una serie de servicios de asistencia a los potenciales editores, mientras que la última opción ofrece un apoyo muy limitado a los editores. Los potenciales editores pueden solicitar orientación al mailto:helpdesk@gbif.org[servicio de ayuda de GBIF] sobre la opción más adecuada. Independientemente de la opción de alojamiento seleccionada, los editores de datos tienen el control total de los mismos, incluyendo la capacidad de corregir y actualizar los conjuntos de datos en cualquier momento. Las citas de los datos siempre reconocerán al editor de datos, independientemente de cómo o dónde se alojen los conjuntos de datos."
 
 #. type: Plain text
 #: 200.en.adoc:111
