@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-12-05 21:24\n"
+"PO-Revision-Date: 2021-12-05 22:59\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -243,7 +243,7 @@ msgstr "Contribuye a las pruebas necesarias para alcanzar los objetivos internac
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "These benefits are obtained at minimal additional cost to the process of biodiversity surveys and monitoring for EIAs, as data can be collected and prepared from the outset in formats suitable for sharing with global, national, subnational and thematic biodiversity data aggregators and repositories. Initial investments in training staff from project sponsors and consultancies in biodiversity data skills will ensure consistent, efficient data collection and management, improve overall data quality, and thus maximize the reputational benefits."
-msgstr "Estos beneficios se obtienen a un costo adicional mínimo en los procesos de estudio y seguimiento de la biodiversidad para las EIA, ya que los datos pueden recopilarse y prepararse desde el principio en formatos adecuados para compartirlos con los agregadores y repositorios de datos de biodiversidad globales, nacionales, subnacionales y temáticos. Las inversiones iniciales en el entrenamiento del personal de los patrocinadores del proyecto y en las consultorías en materia de datos sobre biodiversidad garantizarán una colecta y gestión de datos coherente y eficiente, mejorarán la calidad general de los datos y, por tanto, maximizarán los beneficios en la reputación."
+msgstr "Estos beneficios se obtienen a un costo adicional mínimo en los procesos de estudio y seguimiento de la biodiversidad para las EIA, ya que los datos pueden recopilarse y prepararse desde el principio en formatos adecuados para compartirlos con los agregadores y repositorios de datos de biodiversidad globales, nacionales, subnacionales y temáticos. Las inversiones iniciales en el entrenamiento del personal de los patrocinadores del proyecto y en las consultorías en materia de datos sobre biodiversidad, garantizarán una colecta y gestión de datos coherente y eficiente, mejorarán la calidad general de los datos y, por tanto, maximizarán los beneficios en la reputación."
 
 #. type: Title ==
 #: 200.en.adoc:2
@@ -260,22 +260,22 @@ msgstr "Tipos de datos de biodiversidad "
 #. type: Plain text
 #: 200.en.adoc:7
 msgid "Biodiversity data can encompass structured information data across any level of biodiversity—molecular, species or ecosystem. These data can be either primary biodiversity data, such as observations or collections at a specific time and place, or secondary, synthesized or interpreted data, which combine biodiversity and environmental data from different sources to present real-world interpretations, as in a species distribution map. Although EIAs tend to present a considerable amount of secondary data, this information relies in turn on large volumes of the primary biodiversity data that are the focus of this document."
-msgstr "Los datos de biodiversidad pueden abarcar datos de información estructurada en cualquier nivel de biodiversidad: molecular, de especies o de ecosistemas. Estos datos pueden ser datos primarios sobre la biodiversidad, como observaciones o colectas en un momento y lugar concretos o datos secundarios, sintetizados o interpretados, que combinan datos sobre la biodiversidad y el medio ambiente procedentes de distintas fuentes para presentar interpretaciones del mundo real, como en un mapa de distribución de especies. Aunque las EIA suelen presentar una cantidad considerable de datos secundarios, esta información se basa a su vez en grandes volúmenes de datos primarios sobre biodiversidad, que son el centro de este documento."
+msgstr "Los datos de biodiversidad pueden abarcar datos de información estructurada en cualquier nivel de biodiversidad: molecular, de especies o de ecosistemas. Estos datos pueden ser datos primarios sobre biodiversidad, como observaciones o colectas en un momento y lugar concretos, o datos secundarios, sintetizados o interpretados, que combinan datos sobre la biodiversidad y el medio ambiente procedentes de distintas fuentes para presentar interpretaciones del mundo real, como en un mapa de distribución de especies. Aunque las EIA suelen presentar una cantidad considerable de datos secundarios, esta información se basa a su vez en grandes volúmenes de datos primarios sobre biodiversidad, que son el centro de este documento."
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "The GBIF network specializes in bringing together ‘species occurrence data’ that typically includes, at a minimum, a scientific name, date and location of occurrence. Traditionally, these records have come from sources such as specimens from natural history collections, field work and monitoring surveys, but today other key sources include camera-trap images, environmental DNA (eDNA) sampling and citizen science projects."
-msgstr "La red de GBIF está especializada en reunir \"datos de presencia de especies\" que suelen incluir, como mínimo, el nombre científico, la fecha y la ubicación del registro. Tradicionalmente, estos registros han procedido de fuentes como los especímenes de las colecciones de historia natural, el trabajo de campo y las encuestas de seguimiento, pero hoy en día otras fuentes clave son las imágenes de cámaras trampa, el muestreo de ADN ambiental (eDNA) y los proyectos de ciencia ciudadana."
+msgstr "La red de GBIF está especializada en reunir \"datos de registros biológicos\" que suelen incluir, como mínimo, el nombre científico, la fecha y la ubicación del registro. Tradicionalmente, estos registros han procedido de fuentes como los especímenes de las colecciones de historia natural, el trabajo de campo y los estudios de monitoreo, pero hoy en día otras fuentes clave son las imágenes de cámaras trampa, el muestreo de ADN ambiental (eDNA) y los proyectos de ciencia ciudadana."
 
 #. type: Plain text
 #: 200.en.adoc:11
 msgid "While scientific name, date and location represent a minimum recommended level of information about an organism, occurrence records can include other useful information, such as the observation method, abundance counts, habitat structure (like height, stratification, density), abiotic characteristics (such as substrates, hydrology, climate) and associated information about land use and threats. https://www.gbif.org/data-quality-requirements[Learn more about data-quality requirements^]."
-msgstr "Aunque el nombre científico, la fecha y la ubicación representan un nivel mínimo recomendado de información sobre un organismo, los registros de presencia pueden incluir otra información útil, como el método de observación, los conteos de abundancia, la estructura del hábitat (como la altura, la estratificación, la densidad), las características abióticas (como los sustratos, la hidrología, el clima) y la información asociada sobre el uso del suelo y las amenazas. https://www.gbif.org/data-quality-requirements[Más información sobre los requisitos de calidad de datos^]."
+msgstr "Aunque el nombre científico, la fecha y la ubicación representan un nivel mínimo recomendado de información sobre un organismo, los registros biológicos pueden incluir otra información útil, como el método de observación, los conteos de abundancia, la estructura del hábitat (como la altura, la estratificación, la densidad), las características abióticas (como los sustratos, la hidrología, el clima) y la información asociada sobre el uso del suelo y las amenazas. https://www.gbif.org/data-quality-requirements[Más información sobre los requisitos de calidad de datos^]."
 
 #. type: Plain text
 #: 200.en.adoc:13
 msgid "GBIF publishes https://www.gbif.org/dataset-classes[four different classes of datasets^]: metadata-only, checklist, occurrence and sampling-event. These classes represent increasingly richer levels of information rather than different types of data. <<table-01,Table 1>> describes each class and examples of the type of information they include."
-msgstr "GBIF publica https://www.gbif.org/es/dataset-classes[cuatro tipos diferentes de conjuntos de datos^]: solo metadatos, listados de especies, presencia y eventos de muestreo. Estos tipos representan niveles de información cada vez más ricos en vez de diferentes tipos de datos. <<table-01,Tabla 1>> describe cada tipo y da ejemplos del tipo de información que incluyen."
+msgstr "GBIF publica https://www.gbif.org/es/dataset-classes[cuatro tipos diferentes de conjuntos de datos^]: solo metadatos, listados de especies, registros biológicos y eventos de muestreo. Estos tipos representan niveles de información cada vez más ricos en vez de diferentes tipos de datos. <<table-01,Tabla 1>> describe cada tipo y da ejemplos del tipo de información que incluyen."
 
 #. type: Block title
 #: 200.en.adoc:15
@@ -304,24 +304,24 @@ msgid "|Dataset Class\n"
 msgstr "|Tipo de Conjunto de Datos\n"
 "|Descripción\n"
 "|Ejemplo\n\n"
-"|Conjunto de Datos de Metadatos\n"
+"|Conjunto de datos de metadatos\n"
 "|Información sobre el conjunto de datos\n"
 "|Descripción de las metodologías usadas para colectar los datos, el rango de los datos, alcance geográfico y taxonómico (ver https://www.gbif.org/dataset/a5b4d692-96bf-4acf-8809-b546e9938a5d[ejemplo^])\n\n"
-"|Conjunto de Datos de Listado de Especies\n"
+"|Conjunto de datos de listado de especies\n"
 "|Catálogo o listado de organismos nombrados o taxones\n"
 "|Listado de especies registradas en un lugar, en una zona geográfica o que comparten características particulares, por ejemplo, plantas medicinales, especies exóticas invasoras (ver https://www.gbif.org/dataset/e7250318-b8ac-4780-b2c8-da946f4792da#description[ejemplo^])\n\n"
-"|Conjunto de Datos de Presencia\n"
+"|Conjunto de datos de registros biológicos\n"
 "|Presencia de una especie (u otro taxón) en un lugar particular en una fecha en específico\n"
-"|Nombre científico, latitud, altitud, fecha (see https://www.gbif.org/dataset/5dfd3144-25b0-4a1c-9df6-91b9cc231ccc[ejemplo^])\n\n"
-"|Conjunto de Datos de Evento de Muestreo\n"
+"|Nombre científico, latitud, altitud, fecha (ver https://www.gbif.org/dataset/5dfd3144-25b0-4a1c-9df6-91b9cc231ccc[ejemplo^])\n\n"
+"|Conjunto de datos de evento de muestreo\n"
 "|Datos de presencia para un sitio específico que ha sido muestreado utilizando un protocolo específico, incluyendo muestras repetidas a lo largo del tiempo, con abundancias basadas en unidades y cantidades definidas y un esfuerzo de muestreo.\n"
-"|nombre cientifico, latitud, longitud y cómo se colectaron/observaron las especies y en qué serie de eventos de monitoreo se registraron (ver https://www.gbif.org/dataset/8918109e-0d4a-4cc9-af7b-8e49d31df942[ejemplo^])\n"
+"|Nombre científico, latitud, longitud y cómo se colectaron/observaron las especies y en qué serie de eventos de monitoreo se registraron (ver https://www.gbif.org/dataset/8918109e-0d4a-4cc9-af7b-8e49d31df942[ejemplo^])\n"
 
 #. type: Title ===
 #: 200.en.adoc:40
 #, no-wrap
 msgid "Operating principles: Steps in the publishing process"
-msgstr "Principios operativos: Pasos del proceso de publicación"
+msgstr "Principios operativos: pasos del proceso de publicación"
 
 #. type: Plain text
 #: 200.en.adoc:43
