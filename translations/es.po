@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2021-12-05 23:55\n"
+"PO-Revision-Date: 2021-12-06 01:09\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -480,7 +480,7 @@ msgstr "Las primeras dos opciones ofrecen una serie de servicios de asistencia a
 #. type: Plain text
 #: 200.en.adoc:111
 msgid "The IPT is the most commonly-used tool and is maintained and developed by the GBIF Secretariat. IPTs can generate a Darwin Core Archive (DwC-A), the preferred exchange format, for each dataset and register them on GBIF. To use the IPT, data must already be digitized.  Acceptable file types include delimited text files (e.g. text files using comma or tab-separated values) or Microsoft Excel. Database connections can also be made. If the IPT is to be hosted within the publishing institution, upon installation of the IPT, the publishing organization should register as the host. If the IPT is hosted elsewhere, the IPT administrator can add the publishing organization to the IPT using an IPT token that is issued upon endorsement of the publisher."
-msgstr "La IPT es la herramienta más utilizada y es mantenida y desarrollada por la Secretaría de GBIF. La IPT puede generar un archivo Darwin Core Archive (DwC-A), el formato de intercambio preferido, para cada conjunto de datos y registrarlos en GBIF. Para utilizar la IPT, los datos ya deben estar digitalizados. Los tipos de archivo aceptables incluyen archivos de texto delimitados (por ejemplo, archivos de texto que utilizan valores separados por comas o por tabulaciones) o Microsoft Excel. También pueden realizarse conexiones a bases de datos. Si la IPT se va a alojar en la institución editora, al instalar el IPT, la organización editora deberá registrarse como anfitrión. Si la IPT se alojará en otro lugar, el administrador de la IPT puede añadir a la organización editora a la IPT utilizando un token de IPT que se emite tras la aprobación del editor."
+msgstr "El IPT es la herramienta más utilizada y es mantenida y desarrollada por el Secretariado de GBIF. El IPT puede generar un Archivo Darwin Core (DwC-A), el formato de intercambio preferido, para cada conjunto de datos y registrarlos en GBIF. Para utilizar el IPT, los datos ya deben estar digitalizados. Los tipos de archivo aceptables incluyen archivos de texto delimitados (por ejemplo, archivos de texto que utilizan valores separados por comas o por tabulaciones) o Microsoft Excel. También pueden realizarse conexiones a bases de datos. Si el IPT se va a alojar en la institución editora, al instalar el IPT, la organización editora deberá registrarse como anfitrión. Si el IPT se alojará en otro lugar, el administrador del IPT puede añadir a la organización editora al IPT utilizando un token de IPT que se emite tras la aprobación del editor."
 
 #. type: Title ====
 #: 200.en.adoc:112
@@ -496,18 +496,18 @@ msgstr "Para compartir datos a través de GBIF.org, los editores deben recopilar
 #. type: Plain text
 #: 200.en.adoc:117
 msgid "Publishers should use a precautionary approach and seek input from specialists on the publishing of precise locations of sensitive species, for example threatened or valuable species, when there are concerns that doing so could enable poaching or other threats to the species population. For a thorough discussion of this topic, see https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]."
-msgstr "Los editores deben adoptar un enfoque de precaución y solicitar la opinión de los especialistas sobre la publicación de las localizaciones precisas de las especies sensibles, por ejemplo de las especies amenazadas o valiosas, cuando exista la preocupación de que hacerlo pueda permitir la caza furtiva u otras amenazas para la población de la especie. Para un análisis exhaustivo de este tema, véase https://doi.org/10.15468/doc-5jp4-5g10[Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles^]."
+msgstr "Los editores deben adoptar un enfoque de precaución y solicitar la opinión de los especialistas sobre la publicación de las localizaciones precisas de las especies sensibles, por ejemplo de las especies amenazadas o valiosas, cuando exista la preocupación de que hacerlo pueda permitir la caza furtiva u otras amenazas para la población de la especie. Para un análisis exhaustivo de este tema, ver https://docs.gbif-uat.org/sensitive-species-best-practices/translation_master/es/[Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles^]."
 
 #. type: Title ====
 #: 200.en.adoc:118
 #, no-wrap
 msgid "Step 5: Publishing data to GBIF"
-msgstr "Paso 5: Publicando los datos a GBIF"
+msgstr "Paso 5: publicando los datos a GBIF"
 
 #. type: Plain text
 #: 200.en.adoc:121
 msgid "The GBIF IPT supports automatic registration in the GBIF network (see the https://ipt.gbif.org/manual/[IPT manual^]). If publishers are using an IPT, GBIF registers datasets when publishers click the ‘register’ button. Data should be published as soon as possible following the EIA. However, if there are concerns about commercial confidentiality or other time-sensitive issues, publication may be delayed or embargoed until the completion of a licensing process."
-msgstr "La IPT de GBIF soporta el registro automático en la red de GBIF (ver el https://ipt.gbif.org/manual/es/ipt/2.3/manual-del-usuario-del-ipt[Manual IPT^]). Si los editores están usando un IPT, GBIF registra los conjuntos de datos cuando los editores pulsan el botón \"registrar\". Los datos deben publicarse lo antes posible después de la EIA. Sin embargo, si hay preocupaciones sobre la confidencialidad comercial u otras cuestiones sensibles al tiempo, la publicación puede retrasarse o embargarse hasta la finalización de un proceso de licencia."
+msgstr "El IPT de GBIF soporta el registro automático en la red de GBIF (ver el https://ipt.gbif.org/manual/es/ipt/2.3/manual-del-usuario-del-ipt[Manual IPT^]). Si los editores están usando un IPT, GBIF registra los conjuntos de datos cuando los editores pulsan el botón \"registrar\". Los datos deben publicarse lo antes posible después de la EIA. Sin embargo, si hay preocupaciones sobre la confidencialidad comercial u otras cuestiones sensibles al tiempo, la publicación puede retrasarse o embargarse hasta la finalización de un proceso de licencia."
 
 #. type: Plain text
 #: 200.en.adoc:123
@@ -538,7 +538,7 @@ msgstr "Tenga en cuenta que la licencia CC-BY-NC tiene un efecto significativo e
 #: 200.en.adoc:130
 #, no-wrap
 msgid "Step 6:  Discovering and citing data through GBIF"
-msgstr "Paso 6: Descubriendo y citando datos a través de GBIF"
+msgstr "Paso 6: descubriendo y citando datos a través de GBIF"
 
 #. type: Plain text
 #: 200.en.adoc:133
@@ -548,7 +548,7 @@ msgstr "Una vez registrados los conjuntos de datos, GBIF los indexa para facilit
 #. type: Plain text
 #: 200.en.adoc:135
 msgid "Because search results mix records from different datasets, the GBIF Data User Agreement requires appropriate citation of data regardless of the licence applied to any individual dataset. Through the use of https://www.doi.org[Digital Object Identifiers] (DOIs), GBIF tracks data reuse and provides publishers with key metrics for downloads, which appear the ‘activity’ tab of each dataset page (https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[example^]) and for documented citations in other research and assessments, linked from both https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=c7ecf786-d4ab-4708-87da-bc34e542be44[dataset^] and https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=fe602f47-b553-4291-b6e5-197b9837e167[publisher^] pages. Publishers can use this information to demonstrate the value of their contribution to science and society through sharing data from EIAs."
-msgstr "Debido a que los resultados de la búsqueda mezclan registros de diferentes conjuntos de datos, el Acuerdo de Usuario de Datos de GBIF requiere la citación apropiada de los datos, independientemente de la licencia aplicada a cualquier conjunto de datos individual. Mediante el uso de https://www.doi.org[Identificadores de Objetos Digitales] (DOIs), GBIF hace un seguimiento de la reutilización de los datos y proporciona a los editores métricas clave para las descargas, que aparecen en la pestaña de \"actividad\" de la página de cada conjunto de datos (https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[ejemplo^]) y para las citas documentadas en otras investigaciones y evaluaciones, enlazadas desde las páginas https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=c7ecf786-d4ab-4708-87da-bc34e542be44[conjunto de datos^] y https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=fe602f47-b553-4291-b6e5-197b9837e167[editor^]. Los editores pueden utilizar esta información para demostrar el valor de su contribución a la ciencia y a la sociedad compartiendo los datos de las EIA."
+msgstr "Debido a que los resultados de la búsqueda mezclan registros de diferentes conjuntos de datos, el \"Acuerdo de usuario de datos de GBIF\" requiere la citación apropiada de los datos, independientemente de la licencia aplicada a cualquier conjunto de datos individual. Mediante el uso de https://www.doi.org[identificadores de objetos digitales] (DOI), GBIF hace un seguimiento de la reutilización de los datos y proporciona a los editores métricas clave para las descargas, que aparecen en la pestaña de \"Actividad\" de la página de cada conjunto de datos (https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[ejemplo^]) y para las citas documentadas en otras investigaciones y evaluaciones, enlazadas desde las páginas https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=c7ecf786-d4ab-4708-87da-bc34e542be44[conjunto de datos^] y https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=fe602f47-b553-4291-b6e5-197b9837e167[editor^]. Los editores pueden utilizar esta información para demostrar el valor de su contribución a la ciencia y a la sociedad compartiendo los datos de las EIA."
 
 #. type: Title ==
 #: appa.en.adoc:2
@@ -564,7 +564,7 @@ msgstr "https://www.gbif.org/publishing-data[Introducción: perspectiva general 
 #. type: Plain text
 #: appa.en.adoc:6
 msgid "https://ipt.gbif.org/manual/en/ipt/2.5/how-to-publish#instructions[GBIF IPT Manual: How to publish biodiversity data through GBIF.org]"
-msgstr "https://ipt.gbif.org/manual/es/ipt/2.5/how-to-publish[Manual del Usuario del IPT: Cómo publicar datos sobre biodiversidad a través de GBIF.org]"
+msgstr "https://ipt.gbif.org/manual/es/ipt/2.5/how-to-publish[Manual del usuario del IPT: Cómo publicar datos sobre biodiversidad a través de GBIF.org]"
 
 #. type: Plain text
 #: appa.en.adoc:8
@@ -579,12 +579,12 @@ msgstr "https://www.gbif.org/data-quality-requirements[Requisitos de calidad de 
 #. type: Plain text
 #: appa.en.adoc:10
 msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]"
-msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles^]"
+msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles^]"
 
 #. type: Plain text
 #: appa.en.adoc:11
 msgid "https://dwc.tdwg.org/terms/[Darwin Core Quick Reference Guide^]"
-msgstr "https://dwc.tdwg.org/terms/[Guía Rápida de Referencia del Darwin Core^]"
+msgstr "https://dwc.tdwg.org/terms/[Guía rápida de referencia del Darwin Core^]"
 
 #. type: Plain text
 #: appa.en.adoc:12
