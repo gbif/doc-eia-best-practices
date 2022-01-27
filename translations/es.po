@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2022-01-26 23:24\n"
+"PO-Revision-Date: 2022-01-27 00:32\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -97,7 +97,7 @@ msgstr "Resumen"
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "This guide aims to help practitioners, consultants and other Interested & Affected Parties (I&APs) working with environmental impact assessments to improve the curation, archiving and management of primary biodiversity data captured during EIA processes and to share data freely and openly in standardized, accessible and interoperable formats through the Global Biodiversity Information Facility (GBIF). I&APs are encouraged to share the most detailed data possible, to support knowledge about species distributions and provide baseline data for future assessment."
-msgstr "Esta guía pretende ayudar a los profesionales, consultores y otras \"partes interesadas y afectadas \"(I&AP por sus siglas en inglés) que trabajan con evaluaciones de impacto ambiental a mejorar la curaduría, el almacenamiento y la gestión de los datos primarios sobre biodiversidad obtenidos durante los procesos de Evaluación de impacto ambiental (EIA) y a compartir los datos de forma libre y abierta en formatos estandarizados, accesibles e interoperables a través del Infraestructura Mundial de Información en Biodiversidad (GBIF por sus siglas en inglés). Se anima a los I&AP a compartir los datos con el mayor detalle posible, para apoyar el conocimiento sobre la distribución de las especies y proporcionar datos de referencia para futuras evaluaciones."
+msgstr "Esta guía pretende ayudar a los profesionales, consultores y otras \"partes interesadas y afectadas \"(I&AP por sus siglas en inglés) que trabajan con evaluaciones de impacto ambiental a mejorar la curaduría, el almacenamiento y la gestión de los datos primarios sobre biodiversidad obtenidos durante los procesos de evaluación de impacto ambiental (EIA) y a compartir los datos de forma libre y abierta en formatos estandarizados, accesibles e interoperables a través del Infraestructura Mundial de Información en Biodiversidad (GBIF por sus siglas en inglés). Se anima a los I&AP a compartir los datos con el mayor detalle posible, para apoyar el conocimiento sobre la distribución de las especies y proporcionar datos de referencia para futuras evaluaciones."
 
 #. type: Title ===
 #: colophon.en.adoc:28
@@ -178,7 +178,7 @@ msgstr "GBIF (Infraestructura Mundial de Información en Biodiversidad) es una r
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Benefits of sharing biodiversity data "
-msgstr "Ventajas de compartir los datos sobre biodiversidad "
+msgstr "Ventajas de compartir datos sobre biodiversidad "
 
 #. type: Plain text
 #: 100.en.adoc:5
@@ -218,7 +218,7 @@ msgstr "Aumenta la transparencia, la responsabilidad y la divulgación de las ev
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Provides social licence to operate and a positive profile within the environmental and conservation community"
-msgstr "Proporciona una licencia social para operar y un perfil positivo dentro de la comunidad medioambiental y de conservación"
+msgstr "Proporciona una licencia social para operar y un perfil positivo dentro de la comunidad ambiental y de conservación"
 
 #. type: Plain text
 #: 100.en.adoc:14
@@ -255,7 +255,7 @@ msgstr "Principios y conceptos clave de la publicación de datos "
 #: 200.en.adoc:4
 #, no-wrap
 msgid "Types of biodiversity data "
-msgstr "Tipos de datos de biodiversidad "
+msgstr "Tipos de datos sobre biodiversidad "
 
 #. type: Plain text
 #: 200.en.adoc:7
@@ -275,7 +275,7 @@ msgstr "Aunque el nombre científico, la fecha y la ubicación representan un ni
 #. type: Plain text
 #: 200.en.adoc:13
 msgid "GBIF publishes https://www.gbif.org/dataset-classes[four different classes of datasets^]: metadata-only, checklist, occurrence and sampling-event. These classes represent increasingly richer levels of information rather than different types of data. <<table-01,Table 1>> describes each class and examples of the type of information they include."
-msgstr "GBIF publica https://www.gbif.org/es/dataset-classes[cuatro tipos diferentes de conjuntos de datos^]: solo metadatos, listados de especies, registros biológicos y eventos de muestreo. Estos tipos representan niveles de información cada vez más ricos en vez de diferentes tipos de datos. <<table-01,Tabla 1>> describe cada tipo y da ejemplos del tipo de información que incluyen."
+msgstr "GBIF publica https://www.gbif.org/es/dataset-classes[cuatro tipos diferentes de conjuntos de datos^]: solo metadatos, listados de especies, registros biológicos y eventos de muestreo. Estos tipos representan niveles de información cada vez más ricos en vez de diferentes tipos de datos. La <<table-01,Tabla 1>> describe cada tipo y da ejemplos del tipo de información que incluyen."
 
 #. type: Block title
 #: 200.en.adoc:15
@@ -326,7 +326,7 @@ msgstr "Principios operativos: pasos del proceso de publicación"
 #. type: Plain text
 #: 200.en.adoc:43
 msgid "GBIF provides a means of sharing biodiversity data through a publishing process that uses simple tools and follows standard procedures and protocols to make it universally accessible over the Internet. Data publishing through the GBIF network follows a series of clear steps, shown in <<figure-01,Figure 1>>. Each of these steps is described in more detail in the subsequent sections of this document."
-msgstr "GBIF proporciona un medio para compartir datos de biodiversidad a través de un proceso de publicación que utiliza herramientas sencillas y sigue procedimientos y protocolos estándar para hacer los datos accesibles universalmente a través de Internet. La publicación de datos a través de la red de GBIF sigue una serie de pasos claros, mostrados en la <<figura-01,Figura 1>>. Cada uno de estos pasos se describe con más detalle en las siguientes secciones de este documento."
+msgstr "GBIF proporciona un medio para compartir datos sobre biodiversidad a través de un proceso de publicación que utiliza herramientas sencillas y sigue procedimientos y protocolos estándar para hacer los datos accesibles universalmente a través de Internet. La publicación de datos a través de la red de GBIF sigue una serie de pasos claros, mostrados en la <<figura-01,Figura 1>>. Cada uno de estos pasos se describe con más detalle en las siguientes secciones de este documento."
 
 #. type: Plain text
 #: 200.en.adoc:45
@@ -360,12 +360,12 @@ msgstr "img/web/figure-01.png"
 #: 200.en.adoc:54
 #, no-wrap
 msgid "Step 1: Becoming a data publisher"
-msgstr "Paso 1: Convirtiéndose en publicador de datos"
+msgstr "Paso 1: convirtiéndose en publicador de datos"
 
 #. type: Plain text
 #: 200.en.adoc:57
 msgid "Once an organization agrees to share EIA data, its staff must establish provisions ensuring that stakeholders in each stage of data collection, curation and management agree to the terms by which data publishing takes place and are properly acknowledged in their role. These provisions should include agreeing to the GBIF https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes) and understanding the conditions of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that users of GBIF-mediated data must abide when reusing data."
-msgstr "Una vez que una organización accede a compartir datos de EIA, su personal debe establecer cláusulas que garanticen que en cada etapa de la colecta, curaduría y gestión de los datos, las partes interesadas están de acuerdo con las condiciones en las que se produce la publicación de datos y que sean debidamente reconocidas en su rol. Estas cláusulas deben incluir la aceptación del https://www.gbif.org/terms/data-publisher[acuerdo de publicación de datos^] de GBIF (la versión en inglés es válida a efectos legales) y la comprensión de las condiciones del https://www.gbif.org/terms/data-user[acuerdo del uso de datos^] de GBIF que los usuarios de los datos mediados por GBIF deben cumplir al reutilizar los datos."
+msgstr "Una vez que una organización accede a compartir datos de EIA, su personal debe establecer cláusulas que garanticen que en cada etapa de la colecta, curaduría y gestión de los datos, las partes interesadas están de acuerdo con las condiciones en las que se produce la publicación de datos y que sean debidamente reconocidas en su rol. Estas cláusulas deben incluir la aceptación del https://www.gbif.org/terms/data-publisher[acuerdo de publicación de datos^] de GBIF (la versión en inglés es válida para efectos legales) y la comprensión de las condiciones del https://www.gbif.org/terms/data-user[acuerdo del uso de datos^] de GBIF que los usuarios de los datos mediados por GBIF deben cumplir al reutilizar los datos."
 
 #. type: Title ====
 #: 200.en.adoc:59
@@ -433,7 +433,7 @@ msgstr "|Preocupación\n"
 "|Sensibilidad comercial de los datos durante el periodo de licencia\n"
 "|La publicación de los datos puede retrasarse hasta que el proyecto reciba la aprobación.\n\n"
 "|La empresa se enfrenta a un posible riesgo de reputación si, por ejemplo, se afecta la biodiversidad\n"
-"|Con el tiempo, el aumento de los datos abiertos sobre la distribución de las especies permitirá realizar evaluaciones más sólidas y transparentes de los daños específicos del lugar que pueden proporcionar dividendos de reputación\n\n"
+"|Con el tiempo, el aumento de los datos abiertos sobre la distribución de las especies permitirá realizar evaluaciones más sólidas y transparentes de los daños específicos del lugar que pueden proporcionar beneficios en su reputación\n\n"
 "|El intercambio de datos puede requerir la aprobación y el compromiso de los gobiernos.\n"
 "|https://www.cbd.int/doc/decisions/cop-13/cop-13-dec-31-en.pdf[Las directrices del \"Convenio de la diversidad biológica\"] fomentan el intercambio de datos abiertos y la movilización de datos a través de GBIF es un https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif[indicador de progreso hacia la meta 19 Aichi de biodiversidad]\n\n"
 "|La empresa podría incurrir en costos adicionales y requerir un esfuerzo adicional para supervisar y compartir los datos\n"
@@ -450,7 +450,7 @@ msgstr "Paso 3: seleccionando una herramienta para preparar los datos para su pu
 #. type: Plain text
 #: 200.en.adoc:101
 msgid "GBIF.org does not itself host data. The system relies on each data publisher maintaining their own datasets and making them available online in a GBIF-supported format. It also relies on organizations registering datasets and providing GBIF with a stable endpoint for finding and indexing the data. GBIF recommends using the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) to do this. Highly skilled publishers can also use an API to register datasets programmatically (contact the mailto:helpdesk@gbif.org[GBIF help desk] for more details)."
-msgstr "GBIF.org no alberga datos por sí mismo. El sistema depende de que cada editor de datos mantenga sus propios conjuntos de datos y los ponga a disposición en línea en un formato compatible con GBIF. También depende de que las organizaciones registren los conjuntos de datos y proporcionen a GBIF un punto final estable para encontrar e indexar los datos. GBIF recomienda utilizar la https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) para hacerlo. Los editores altamente cualificados también pueden utilizar una API para registrar conjuntos de datos de forma programada (contacte al mailto:helpdesk@gbif.org[centro de ayuda de GBIF] para más detalles)."
+msgstr "GBIF.org no publica datos por sí mismo. El sistema depende de que cada editor de datos mantenga sus propios conjuntos de datos y los disponga en línea en un formato compatible con GBIF. También depende de que las organizaciones registren los conjuntos de datos y proporcionen a GBIF un punto final estable para encontrar e indexar los datos. GBIF recomienda utilizar la https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) para hacerlo. Los editores altamente cualificados también pueden utilizar una API para registrar conjuntos de datos de forma programada (contacte al mailto:helpdesk@gbif.org[centro de ayuda de GBIF] para más detalles)."
 
 #. type: Plain text
 #: 200.en.adoc:103
@@ -465,7 +465,7 @@ msgstr "Datos alojados en un nodo nacional (si el país es participante de GBIF)
 #. type: Plain text
 #: 200.en.adoc:106
 msgid "Hosted by another GBIF Participant or data publisher"
-msgstr "Alojado por otro participante de GBIF o editor de datos"
+msgstr "Alojado por otro participante de GBIF o publicador de datos"
 
 #. type: Plain text
 #: 200.en.adoc:107
