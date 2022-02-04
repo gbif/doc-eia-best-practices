@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eia-guide\n"
 "POT-Creation-Date: 2021-10-04 14:05+0000\n"
-"PO-Revision-Date: 2022-01-27 00:32\n"
+"PO-Revision-Date: 2022-02-04 14:36\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -401,13 +401,13 @@ msgstr "GBIF se basa principalmente en los estándares Darwin Core (DwC) y Ecolo
 #. type: Plain text
 #: 200.en.adoc:70
 msgid "GBIF provides https://www.gbif.org/dataset-classes[pre-configured Excel spreadsheets^] that can serve as templates for capturing checklist, occurrence and sampling-event data. These spreadsheets are simple tools aimed at providing a common format and standard for collecting data. They use consistent terminology and can be completed with additional DwC terms to fit the data collection purpose. This standardized approach makes it easier to exchange data between users, compare it across sites, and integrate it into national and global biodiversity databases. No metadata template is provided as publishers can use the built-in metadata editor in GBIF’s data publication tool–the Integrated Publishing Toolkit (IPT) (see <<step-03,Step 3>> below)–to populate the metadata. The IPT ensures that the data and metadata are in a valid XML format."
-msgstr "GBIF proporciona https://www.gbif.org/dataset-classes[hojas de cálculo Excel preconfiguradas^] que pueden servir como plantillas para capturar datos de listados de especies, registros biológicos y eventos de muestreo. Estas hojas de cálculo son herramientas sencillas destinadas a proporcionar un formato común y un estándar para la colecta de datos. Utilizan una terminología coherente y pueden completarse con términos adicionales de DwC para ajustarse al propósito de la colecta de datos. Este enfoque estandarizado facilita el intercambio de datos entre usuarios, la comparación entre sitios y su integración en bases de datos de biodiversidad nacionales y mundiales. No se proporciona ninguna plantilla de metadatos, ya que los editores pueden utilizar el editor de metadatos incorporado en la herramienta de publicación de datos de GBIF, la \"Herramienta integrada de publicación (IPT)\" (ver <<step-03, Paso 3>> más abajo) para ingresar los metadatos. El IPT asegura que los datos y los metadatos estén en un formato XML válido."
+msgstr "GBIF proporciona https://www.gbif.org/dataset-classes[hojas de cálculo Excel preconfiguradas^] que pueden servir como plantillas para capturar datos de listados de especies, registros biológicos y eventos de muestreo. Estas hojas de cálculo son herramientas sencillas destinadas a proporcionar un formato común y un estándar para la colecta de datos. Utilizan una terminología coherente y pueden completarse con términos adicionales de DwC para ajustarse al propósito de la colecta de datos. Este enfoque estandarizado facilita el intercambio de datos entre usuarios, la comparación entre sitios y su integración en bases de datos de biodiversidad nacionales y mundiales. No se proporciona ninguna plantilla de metadatos, ya que los publicadores pueden utilizar el editor de metadatos incorporado en la herramienta de publicación de datos de GBIF, la Integrated Publishing Toolkit (IPT) (ver <<step-03, Paso 3>> más abajo) para ingresar los metadatos. El IPT asegura que los datos y los metadatos estén en un formato XML válido."
 
 #. type: Block title
 #: 200.en.adoc:72
 #, no-wrap
 msgid "Responses to key concerns raised by EIA data publishers"
-msgstr "Respuestas a las principales preocupaciones planteadas por los editores de datos de la EIA"
+msgstr "Respuestas a las principales preocupaciones planteadas por los publicadores de datos de la EIA"
 
 #. type: Table
 #: 200.en.adoc:95
@@ -450,7 +450,7 @@ msgstr "Paso 3: seleccionando una herramienta para preparar los datos para su pu
 #. type: Plain text
 #: 200.en.adoc:101
 msgid "GBIF.org does not itself host data. The system relies on each data publisher maintaining their own datasets and making them available online in a GBIF-supported format. It also relies on organizations registering datasets and providing GBIF with a stable endpoint for finding and indexing the data. GBIF recommends using the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) to do this. Highly skilled publishers can also use an API to register datasets programmatically (contact the mailto:helpdesk@gbif.org[GBIF help desk] for more details)."
-msgstr "GBIF.org no publica datos por sí mismo. El sistema depende de que cada editor de datos mantenga sus propios conjuntos de datos y los disponga en línea en un formato compatible con GBIF. También depende de que las organizaciones registren los conjuntos de datos y proporcionen a GBIF un punto final estable para encontrar e indexar los datos. GBIF recomienda utilizar la https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) para hacerlo. Los editores altamente cualificados también pueden utilizar una API para registrar conjuntos de datos de forma programada (contacte al mailto:helpdesk@gbif.org[centro de ayuda de GBIF] para más detalles)."
+msgstr "GBIF.org no publica datos por sí mismo. El sistema depende de que cada publicador de datos mantenga sus propios conjuntos de datos y los disponga en línea en un formato compatible con GBIF. También depende de que las organizaciones registren los conjuntos de datos y proporcionen a GBIF un punto final estable para encontrar e indexar los datos. GBIF recomienda utilizar la https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) para hacerlo. Los publicadores altamente cualificados también pueden utilizar una API para registrar conjuntos de datos de forma programada (contacte al mailto:helpdesk@gbif.org[centro de ayuda de GBIF] para más detalles)."
 
 #. type: Plain text
 #: 200.en.adoc:103
