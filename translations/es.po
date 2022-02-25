@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eia-guide\n"
+"POT-Creation-Date: 2021-10-04 14:05+0000\n"
+"PO-Revision-Date: 2022-02-04 15:39\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: eia-guide\n"
+"X-Crowdin-Project-ID: 439072\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 785\n"
+
+#. type: Title =
+#: index.en.adoc:1
+#, no-wrap
+msgid "Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments"
+msgstr "Buenas prácticas para la publicación de datos sobre biodiversidad procedentes de evaluaciones de impacto ambiental"
+
+#. type: Plain text
+#: index.en.adoc:3
+msgid "Andrew Rodrigues; Dag Endresen; Rui Figueira; Cristina Villaverde; Miguel Vega; Nick King; Asha Rajvanshi; Jo Treweek"
+msgstr "Andrew Rodrigues; Dag Endresen; Rui Figueira; Cristina Villaverde; Miguel Vega; Nick King; Asha Rajvanshi; Jo Treweek"
+
+#. type: Plain text
+#: index.en.adoc:13
+msgid "languageLinks:combined[]"
+msgstr "languageLinks:combined[]"
+
+#. type: Target for macro image
+#: colophon.en.adoc:3
+#, no-wrap
+msgid "img/web/photo.jpg"
+msgstr "img/web/photo.jpg"
+
+#. type: Title ==
+#: colophon.en.adoc:6
+#, no-wrap
+msgid "Colophon"
+msgstr "Colofón"
+
+#. type: Title ===
+#: colophon.en.adoc:8
+#, no-wrap
+msgid "Suggested citation"
+msgstr "Citación sugerida"
+
+#. type: Plain text
+#: colophon.en.adoc:11
+msgid "GBIF Secretariat & IAIA (2020) Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-5xdm-8762"
+msgstr "GBIF Secretariat & IAIA (2020) Buenas prácticas para la publicación de datos sobre biodiversidad procedentes de evaluaciones de impacto ambiental. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-5xdm-8762"
+
+#. type: Title ===
+#: colophon.en.adoc:12
+#, no-wrap
+msgid "Contributors"
+msgstr "Colaboradores"
+
+#. type: Plain text
+#: colophon.en.adoc:15
+msgid "https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues] of the GBIF Secretariat, http://orcid.org/0000-0002-2352-5497[Dag Endresen] of GBIF Norway, https://orcid.org/0000-0002-8351-4028[Rui Figueira] of GBIF Portugal, https://orcid.org/0000-0001-9244-399X[Cristina Villaverde] and https://orcid.org/0000-0003-1885-7195[Miguel Vega] of GBIF Spain, and Nick King, Asha Rajvanshi and https://orcid.org/0000-0002-7113-2196[Jo Treweek] of IAIA contributed to this version of the document."
+msgstr "https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues] del Secretariado de GBIF, http://orcid.org/0000-0002-2352-5497[Dag Endresen] de GBIF Noruega, https://orcid.org/0000-0002-8351-4028[Rui Figueira] de GBIF Portugal, https://orcid.org/0000-0001-9244-399X[Cristina Villaverde] 7 https://orcid.org/0000-0003-1885-7195[Miguel Vega] de GBIF España, y Nick King, Asha Rajvanshi y https://orcid.org/0000-0002-7113-2196[Jo Treweek] de IAIA contribuyeron a esta versión del documento."
+
+#. type: Title ===
+#: colophon.en.adoc:16
+#, no-wrap
+msgid "Licence"
+msgstr "Licencia"
+
+#. type: Plain text
+#: colophon.en.adoc:19
+msgid "The document _Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgstr "Este documento _Buenas prácticas para la publicación de datos sobre biodiversidad procedentes de evaluaciones de impacto ambiental_ se publica bajo una licencia https://creativecommons.org/licenses/by-sa/4.0/deed.es[Creative Commons Attribución-CompartirIgual 4.0 Internacional]."
+
+#. type: Title ===
+#: colophon.en.adoc:20
+#, no-wrap
+msgid "Persistent URI"
+msgstr "URI persistente"
+
+#. type: Plain text
+#: colophon.en.adoc:23
+msgid "https://doi.org/10.35035/doc-5xdm-8762"
+msgstr "https://doi.org/10.35035/doc-5xdm-8762"
+
+#. type: Title ===
+#: colophon.en.adoc:24
+#, no-wrap
+msgid "Abstract"
+msgstr "Resumen"
+
+#. type: Plain text
+#: colophon.en.adoc:27
+msgid "This guide aims to help practitioners, consultants and other Interested & Affected Parties (I&APs) working with environmental impact assessments to improve the curation, archiving and management of primary biodiversity data captured during EIA processes and to share data freely and openly in standardized, accessible and interoperable formats through the Global Biodiversity Information Facility (GBIF). I&APs are encouraged to share the most detailed data possible, to support knowledge about species distributions and provide baseline data for future assessment."
+msgstr "Esta guía pretende ayudar a los profesionales, consultores y otras \"partes interesadas y afectadas \"(I&AP por sus siglas en inglés) que trabajan con evaluaciones de impacto ambiental a mejorar la curaduría, el almacenamiento y la gestión de los datos primarios sobre biodiversidad obtenidos durante los procesos de evaluación de impacto ambiental (EIA) y a compartir los datos de forma libre y abierta en formatos estandarizados, accesibles e interoperables a través del Infraestructura Mundial de Información en Biodiversidad (GBIF por sus siglas en inglés). Se anima a los I&AP a compartir los datos con el mayor detalle posible, para apoyar el conocimiento sobre la distribución de las especies y proporcionar datos de referencia para futuras evaluaciones."
+
+#. type: Title ===
+#: colophon.en.adoc:28
+#, no-wrap
+msgid "Document control"
+msgstr "Control del documento"
+
+#. type: Plain text
+#: colophon.en.adoc:30
+msgid "v1.0, December 2020"
+msgstr "v1.0, December 2020"
+
+#. type: Plain text
+#: colophon.en.adoc:32
+msgid "Based on an earlier publication: Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf."
+msgstr "Basado en una publicación anterior: Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Disponible en https://www.iaia.org/uploads/pdf/sp7.pdf."
+
+#. type: Title ===
+#: colophon.en.adoc:33
+#, no-wrap
+msgid "About GBIF"
+msgstr "Acerca de GBIF"
+
+#. type: Plain text
+#: colophon.en.adoc:36
+msgid "GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world’s governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth. Coordinated through its Secretariat in Copenhagen, the GBIF network of participating countries and organizations, working through participant nodes, provides data-holding institutions around the world with common standards and open-source tools that enable them to share information about where and when species have been recorded. For more information, visit https://www.gbif.org."
+msgstr "GBIF (Infraestructura Mundial de Información en Biodiversidad) es una red internacional y una infraestructura de datos financiada por los gobiernos del mundo y cuyo objetivo es proporcionar a cualquier persona, en cualquier lugar, acceso abierto a los datos sobre todos los tipos de vida en la Tierra. Coordinada a través de su Secretariado en Copenhague, la red GBIF de países y organizaciones participantes, que trabajan a través de nodos participantes, proporciona a las instituciones que poseen datos en todo el mundo normas comunes y herramientas de código abierto que les permiten compartir información sobre dónde y cuándo se han registrado las especies. Para más información visite https://www.gbif.org."
+
+#. type: Title ===
+#: colophon.en.adoc:37
+#, no-wrap
+msgid "About IAIA"
+msgstr "Sobre IAIA"
+
+#. type: Plain text
+#: colophon.en.adoc:40
+msgid "IAIA—the International Association for Impact Assessment—is the leading global network on best practice in the use of impact assessment for informed decision making regarding policies, programs, plans and projects. IAIA is committed to the promotion of sustainability, the freedom of access to information, and the right of citizens to have a voice in decisions that affect them. IAIA promotes the free ﬂow of complete, unbiased and accurate information to decision-makers and affected parties. This includes biodiversity information. IAIA’s Best Practice Principles on Biodiversity-Inclusive Impact Assessment promote transparent approaches and the sharing of biodiversity data. IAIA actively encourages its members to encourage their clients to share data using the GBIF facility. For more information, visit https://www.iaia.org."
+msgstr "La IAIA (Asociación internacional de evaluación del impacto) es la principal red mundial sobre buenas prácticas en el uso de la evaluación de impacto para la toma de decisiones informadas sobre políticas, programas, planes y proyectos. La IAIA está comprometida con la promoción de la sostenibilidad, la libertad de acceso a la información y el derecho de los ciudadanos a tener voz en las decisiones que les afectan. La IAIA promueve la difusión gratuita de información completa, imparcial y precisa a los responsables de la toma de decisiones y a las partes afectadas. Esto incluye la información sobre la biodiversidad. Los \"Principios de buenas prácticas para la evaluación del impacto en la biodiversidad\" de la IAIA promueven enfoques transparentes y el intercambio de datos sobre biodiversidad. La IAIA alienta activamente a sus miembros a que animen a sus clientes a compartir los datos utilizando el servicio GBIF. Para más información visite https://www.iaia.org."
+
+#. type: Title ===
+#: colophon.en.adoc:41
+#, no-wrap
+msgid "Cover image"
+msgstr "Imagen de portada"
+
+#. type: Plain text
+#: colophon.en.adoc:43
+msgid "Whale shark (_Rhincodon typus_), Australia. Photo 2009 Erik Schlogl via https://www.gbif.org/occurrence/1453193080[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr "Tiburón ballena (_Rhincodon typus_), Australia. Foto 2009 Erik Schlogl vía https://www.gbif.org/occurrence/1453193080[iNaturalist research-grade observations], licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+
+#. type: Title ==
+#: intro.en.adoc:1
+#, no-wrap
+msgid "Introduction"
+msgstr "Introducción"
+
+#. type: Plain text
+#: intro.en.adoc:4
+msgid "Data from biodiversity baseline assessment and monitoring plays a crucial role in understanding current and potential future impacts of development on the natural environment, whether these impacts are from industrial, infrastructure, agricultural, extractive or other projects. Data about the occurrence of species in space and time are needed to underpin efforts to avoid, mitigate, restore or offset impacts on biodiversity through the Mitigation Hierarchy. Effective decision-making in this area is also crucial for aligning with international best practices and fulfilling international commitments under the https://sustainabledevelopment.un.org/[UN Sustainable Development Goals] and the https://www.cbd.int/[Convention on Biological Diversity]."
+msgstr "Los datos procedentes de la evaluación y el monitoreo base de la biodiversidad tienen un papel crucial en la comprensión de los impactos actuales y los potenciales impactos futuros del desarrollo en el entorno natural, ya sea por proyectos industriales, de infraestructuras, agrícolas, extractivos o de otro tipo. Los datos sobre la presencia de especies en el espacio y el tiempo son necesarios para respaldar los esfuerzos por evitar, mitigar, restaurar o compensar los impactos sobre la biodiversidad a través de la \"Jerarquía de mitigación\". La toma de decisiones eficaz en este ámbito también es crucial para alinearse con las buenas prácticas internacionales y cumplir con los compromisos internacionales en virtud de los https://www.un.org/sustainabledevelopment/es/[Objetivos de desarrollo sostenible de la ONU] y el https://www.cbd.int/[Convenio de la diversidad biológica]."
+
+#. type: Plain text
+#: intro.en.adoc:6
+msgid "Gathering biodiversity data is one of the most expensive and time-consuming components of the impact assessment process. During field surveys, experts must account for the range of species and habitats, as well as migratory patterns and life cycles of species across seasons. While aligning data collection periods with project and financing life cycles can be a challenge, failure to plan repeat visits across different seasons can lead to project delays, additional costs and failure to understand differences in likely impacts over time. The scarcity of available resources in developing countries often adds further limitations in the amount of existing data available for EIAs, even in areas known to be biologically rich and diverse."
+msgstr "La recopilación de datos sobre biodiversidad es uno de los componentes más costosos y largos del proceso de evaluación del impacto. Durante los estudios en campo, los expertos deben tener en cuenta el rango de distribución de las especies y los hábitats, así como los patrones migratorios y los ciclos de vida de las especies a lo largo de las estaciones. Aunque sincronizar las temporadas de levantamiento de datos con los ciclos de vida de los proyectos y la financiación puede ser un reto, no planificar visitas repetidas a lo largo de las diferentes estaciones puede provocar retrasos en el proyecto, costos adicionales e incapacidad para comprender diferencias en los potenciales impactos a lo largo del tiempo. La escasez de recursos disponibles en los países en vía de desarrollo suele añadir más limitaciones a la cantidad de datos existentes disponibles para las EIA, incluso en zonas conocidas por su riqueza y diversidad biológica."
+
+#. type: Plain text
+#: intro.en.adoc:8
+msgid "Despite its potential value beyond any given project, biodiversity assessment and monitoring data are rarely shared. Instead, valuable datasets remain archived within company databases and systems where they fail to yield returns on the significant amounts of time and money already invested in them."
+msgstr "A pesar de su potencial valor más allá de cualquier proyecto, los datos de evaluación y seguimiento de la biodiversidad rara vez se comparten. Por el contrario, los valiosos conjuntos de datos permanecen archivados en las bases de datos y los sistemas de las empresas, donde no consiguen dar frutos de las importantes cantidades de tiempo y dinero invertidas en ellos."
+
+#. type: Plain text
+#: intro.en.adoc:9
+msgid "GBIF—the Global Biodiversity Information Facility—is an international network and research infrastructure that makes biodiversity data freely and openly accessible to scientists, researchers, authorities and citizens anywhere. Its aim is to produce economic and social benefits and enable sustainable development by providing sound scientific evidence on biodiversity. To that end, GBIF and its global community of practice provide a suite of standards, tools and infrastructure to support the management, publication, use and reuse of primary biodiversity data. This guide updates https://www.iaia.org/uploads/pdf/sp7.pdf[Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide] (2011), a joint publication of GBIF and IAIA, offering a current view of how EIA practitioners can make more effective use of these resources."
+msgstr "GBIF (Infraestructura Mundial de Información en Biodiversidad) es una red internacional y una infraestructura de investigación que hace que los datos de biodiversidad estén libres y abiertamente accesibles para científicos, investigadores, autoridades y ciudadanos de cualquier lugar. Su objetivo es producir beneficios económicos y sociales, y permitir el desarrollo sostenible proporcionando evidencia científica sólida sobre la biodiversidad. Para ello, GBIF y su comunidad global de prácticas proporcionan un conjunto de estándares, herramientas e infraestructura para apoyar la gestión, publicación, uso y reutilización de datos primarios sobre biodiversidad. Esta guía actualiza https://www.iaia.org/uploads/pdf/sp7.pdf[Publishing EIA-Related Primary Biodiversity Data: Guía de buenas prácticas de GBIF-IAIA] (2011), una publicación conjunta de GBIF e IAIA, que ofrece una visión actual de cómo los profesionales de la EIA pueden hacer un uso más eficaz de estos recursos."
+
+#. type: Title ==
+#: 100.en.adoc:2
+#, no-wrap
+msgid "Benefits of sharing biodiversity data "
+msgstr "Ventajas de compartir datos sobre biodiversidad "
+
+#. type: Plain text
+#: 100.en.adoc:5
+msgid "Companies responsible for ordering or conducting EIAs can accrue both operational and reputational benefits by sharing biodiversity data through GBIF and similar open access data platforms. Specifically, publishing primary biodiversity data from EIAs:"
+msgstr "Las empresas responsables de solicitar o realizar EIA pueden obtener beneficios tanto operativos como de reputación al compartir los datos sobre biodiversidad a través de GBIF y otras plataformas de datos de acceso abierto similares. En concreto, la publicación de datos primarios sobre biodiversidad procedentes de las EIA:"
+
+#. type: Plain text
+#: 100.en.adoc:7
+msgid "Provides long-term cost savings and improved understanding of natural heritage of project areas by leveraging existing biodiversity information from earlier data collection efforts"
+msgstr "Proporciona un ahorro de costos a largo plazo y una mejor comprensión del patrimonio natural de las zonas del proyecto al aprovechar la información sobre biodiversidad colectada en esfuerzos anteriores"
+
+#. type: Plain text
+#: 100.en.adoc:8
+msgid "Shares biological data methodically and consistently using standardized formats and conditions, aligning with best practices to improve data management, documentation and retention in large and small projects"
+msgstr "Comparte los datos biológicos de forma metódica y consistente utilizando condiciones y formatos estandarizados, alineándose con las buenas prácticas para mejorar la gestión, documentación y conservación de los datos en proyectos grandes y pequeños"
+
+#. type: Plain text
+#: 100.en.adoc:9
+msgid "Reduces field survey effort through improved targeting of species and a better understanding of species ranges"
+msgstr "Reduce el esfuerzo de muestreo en campo gracias a una mejor selección de las especies y a un mejor conocimiento de sus rangos de distribución"
+
+#. type: Plain text
+#: 100.en.adoc:10
+msgid "Through cumulative impacts of shared data, increases data coverage for sensitive ecosystems, habitats and sites to help detect and avoid species of conservation concern, migratory and ephemeral species in early project stages"
+msgstr "A través del impacto acumulado de los datos compartidos, aumenta la cobertura de datos para los ecosistemas, hábitats y sitios sensibles, para ayudar a detectar y evitar las especies de interés para la conservación, las especies migratorias y efímeras en las primeras etapas del proyecto"
+
+#. type: Plain text
+#: 100.en.adoc:11
+msgid "Offers companies low-cost leadership opportunities that significantly reduce costs and increase impact"
+msgstr "Ofrece a las empresas oportunidades de liderazgo de bajo costo que reducen significativamente los gastos y aumentan el impacto"
+
+#. type: Plain text
+#: 100.en.adoc:12
+msgid "Increases transparency, accountability and disclosure of assessments to I&APs, including regulators and citizens"
+msgstr "Aumenta la transparencia, la responsabilidad y la divulgación de las evaluaciones a las I&AP al incluir los reguladores y a los ciudadanos"
+
+#. type: Plain text
+#: 100.en.adoc:13
+msgid "Provides social licence to operate and a positive profile within the environmental and conservation community"
+msgstr "Proporciona una licencia social para operar y un perfil positivo dentro de la comunidad ambiental y de conservación"
+
+#. type: Plain text
+#: 100.en.adoc:14
+msgid "Fills data gaps in under-sampled regions of the world"
+msgstr "Cubre los vacíos de datos en regiones del mundo insuficientemente muestreadas"
+
+#. type: Plain text
+#: 100.en.adoc:15
+msgid "Enhances the evidence base available for reuse in decision-making and research applications related to biodiversity"
+msgstr "Mejora la base de pruebas disponible para su reutilización en la toma de decisiones e investigaciones relacionadas con la biodiversidad"
+
+#. type: Plain text
+#: 100.en.adoc:16
+msgid "Enables tracking of the reuse of data in research and policy applications through data citations, thus returning reputational credit to companies and consultants"
+msgstr "Permite el seguimiento de la reutilización de los datos en aplicaciones de investigación y políticas a través de las citas de los datos, retornando así crédito de reputación a las empresas y consultores"
+
+#. type: Plain text
+#: 100.en.adoc:17
+msgid "Contributes to evidence needed to attain international targets, including SDGs, related to conservation, climate change, invasive species, food security, human health, and zoonotic disease management"
+msgstr "Contribuye a las pruebas necesarias para alcanzar los objetivos internacionales, incluidos los ODS, relacionados con la conservación, el cambio climático, las especies invasoras, la seguridad alimentaria, la salud humana y la gestión de las enfermedades zoonóticas"
+
+#. type: Plain text
+#: 100.en.adoc:18
+msgid "These benefits are obtained at minimal additional cost to the process of biodiversity surveys and monitoring for EIAs, as data can be collected and prepared from the outset in formats suitable for sharing with global, national, subnational and thematic biodiversity data aggregators and repositories. Initial investments in training staff from project sponsors and consultancies in biodiversity data skills will ensure consistent, efficient data collection and management, improve overall data quality, and thus maximize the reputational benefits."
+msgstr "Estos beneficios se obtienen a un costo adicional mínimo en los procesos de estudio y seguimiento de la biodiversidad para las EIA, ya que los datos pueden recopilarse y prepararse desde el principio en formatos adecuados para compartirlos con los agregadores y repositorios de datos de biodiversidad globales, nacionales, subnacionales y temáticos. Las inversiones iniciales en el entrenamiento del personal de los patrocinadores del proyecto y en las consultorías en materia de datos sobre biodiversidad, garantizarán una colecta y gestión de datos coherente y eficiente, mejorarán la calidad general de los datos y, por tanto, maximizarán los beneficios en la reputación."
+
+#. type: Title ==
+#: 200.en.adoc:2
+#, no-wrap
+msgid "Key principles and concepts of data publishing "
+msgstr "Principios y conceptos clave de la publicación de datos "
+
+#. type: Title ===
+#: 200.en.adoc:4
+#, no-wrap
+msgid "Types of biodiversity data "
+msgstr "Tipos de datos sobre biodiversidad "
+
+#. type: Plain text
+#: 200.en.adoc:7
+msgid "Biodiversity data can encompass structured information data across any level of biodiversity—molecular, species or ecosystem. These data can be either primary biodiversity data, such as observations or collections at a specific time and place, or secondary, synthesized or interpreted data, which combine biodiversity and environmental data from different sources to present real-world interpretations, as in a species distribution map. Although EIAs tend to present a considerable amount of secondary data, this information relies in turn on large volumes of the primary biodiversity data that are the focus of this document."
+msgstr "Los datos de biodiversidad pueden abarcar datos de información estructurada en cualquier nivel de biodiversidad: molecular, de especies o de ecosistemas. Estos datos pueden ser datos primarios sobre biodiversidad, como observaciones o colectas en un momento y lugar concretos, o datos secundarios, sintetizados o interpretados, que combinan datos sobre la biodiversidad y el medio ambiente procedentes de distintas fuentes para presentar interpretaciones del mundo real, como en un mapa de distribución de especies. Aunque las EIA suelen presentar una cantidad considerable de datos secundarios, esta información se basa a su vez en grandes volúmenes de datos primarios sobre biodiversidad, que son el centro de este documento."
+
+#. type: Plain text
+#: 200.en.adoc:9
+msgid "The GBIF network specializes in bringing together ‘species occurrence data’ that typically includes, at a minimum, a scientific name, date and location of occurrence. Traditionally, these records have come from sources such as specimens from natural history collections, field work and monitoring surveys, but today other key sources include camera-trap images, environmental DNA (eDNA) sampling and citizen science projects."
+msgstr "La red de GBIF está especializada en reunir \"datos de registros biológicos\" que suelen incluir, como mínimo, el nombre científico, la fecha y la ubicación del registro. Tradicionalmente, estos registros han procedido de fuentes como los especímenes de las colecciones de historia natural, el trabajo de campo y los estudios de monitoreo, pero hoy en día otras fuentes clave son las imágenes de cámaras trampa, el muestreo de ADN ambiental (eDNA) y los proyectos de ciencia ciudadana."
+
+#. type: Plain text
+#: 200.en.adoc:11
+msgid "While scientific name, date and location represent a minimum recommended level of information about an organism, occurrence records can include other useful information, such as the observation method, abundance counts, habitat structure (like height, stratification, density), abiotic characteristics (such as substrates, hydrology, climate) and associated information about land use and threats. https://www.gbif.org/data-quality-requirements[Learn more about data-quality requirements^]."
+msgstr "Aunque el nombre científico, la fecha y la ubicación representan un nivel mínimo recomendado de información sobre un organismo, los registros biológicos pueden incluir otra información útil, como el método de observación, los conteos de abundancia, la estructura del hábitat (como la altura, la estratificación, la densidad), las características abióticas (como los sustratos, la hidrología, el clima) y la información asociada sobre el uso del suelo y las amenazas. https://www.gbif.org/data-quality-requirements[Más información sobre los requisitos de calidad de datos^]."
+
+#. type: Plain text
+#: 200.en.adoc:13
+msgid "GBIF publishes https://www.gbif.org/dataset-classes[four different classes of datasets^]: metadata-only, checklist, occurrence and sampling-event. These classes represent increasingly richer levels of information rather than different types of data. <<table-01,Table 1>> describes each class and examples of the type of information they include."
+msgstr "GBIF publica https://www.gbif.org/es/dataset-classes[cuatro tipos diferentes de conjuntos de datos^]: solo metadatos, listados de especies, registros biológicos y eventos de muestreo. Estos tipos representan niveles de información cada vez más ricos en vez de diferentes tipos de datos. La <<table-01,Tabla 1>> describe cada tipo y da ejemplos del tipo de información que incluyen."
+
+#. type: Block title
+#: 200.en.adoc:15
+#, no-wrap
+msgid "Steps to publishing data on GBIF.org"
+msgstr "Pasos para publicar datos en GBIF.org"
+
+#. type: Table
+#: 200.en.adoc:37
+#, no-wrap
+msgid "|Dataset Class\n"
+"|Description\n"
+"|Example\n\n"
+"|Metadata dataset\n"
+"|Information about the dataset\n"
+"|Description of the methodologies used for collecting the data, date range, geographic and taxonomic scope (see https://www.gbif.org/dataset/a5b4d692-96bf-4acf-8809-b546e9938a5d[example^])\n\n"
+"|Checklist Dataset\n"
+"|Catalogue or list of named organisms, or taxa\n"
+"|List of species recorded at a site, within a geographic area or sharing particular characteristics, e.g. medicinal plants, invasive alien species (see https://www.gbif.org/dataset/e7250318-b8ac-4780-b2c8-da946f4792da#description[example^])\n\n"
+"|Occurrence dataset\n"
+"|Occurrence of a species (or other taxon) at a particular place on a specified date\n"
+"|Scientific name, latitude, longitude, date (see https://www.gbif.org/dataset/5dfd3144-25b0-4a1c-9df6-91b9cc231ccc[example^])\n\n"
+"|Sampling-event dataset\n"
+"|Occurrence data for a specific site that has been sampled using a specific protocol, including repeated samples over time, with abundances based on defined units and quantities, and sampling effort.\n"
+"|Scientific name, latitude, longitude and how the species were collected/observed and in which series of monitoring events it was recorded (see https://www.gbif.org/dataset/8918109e-0d4a-4cc9-af7b-8e49d31df942[example^])\n"
+msgstr "|Tipo de Conjunto de Datos\n"
+"|Descripción\n"
+"|Ejemplo\n\n"
+"|Conjunto de datos de metadatos\n"
+"|Información sobre el conjunto de datos\n"
+"|Descripción de las metodologías usadas para colectar los datos, el rango de los datos, alcance geográfico y taxonómico (ver https://www.gbif.org/dataset/a5b4d692-96bf-4acf-8809-b546e9938a5d[ejemplo^])\n\n"
+"|Conjunto de datos de listado de especies\n"
+"|Catálogo o listado de organismos nombrados o taxones\n"
+"|Listado de especies registradas en un lugar, en una zona geográfica o que comparten características particulares, por ejemplo, plantas medicinales, especies exóticas invasoras (ver https://www.gbif.org/dataset/e7250318-b8ac-4780-b2c8-da946f4792da#description[ejemplo^])\n\n"
+"|Conjunto de datos de registros biológicos\n"
+"|Presencia de una especie (u otro taxón) en un lugar particular en una fecha en específico\n"
+"|Nombre científico, latitud, altitud, fecha (ver https://www.gbif.org/dataset/5dfd3144-25b0-4a1c-9df6-91b9cc231ccc[ejemplo^])\n\n"
+"|Conjunto de datos de evento de muestreo\n"
+"|Datos de presencia para un sitio específico que ha sido muestreado utilizando un protocolo específico, incluyendo muestras repetidas a lo largo del tiempo, con abundancias basadas en unidades y cantidades definidas y un esfuerzo de muestreo.\n"
+"|Nombre científico, latitud, longitud y cómo se colectaron/observaron las especies y en qué serie de eventos de monitoreo se registraron (ver https://www.gbif.org/dataset/8918109e-0d4a-4cc9-af7b-8e49d31df942[ejemplo^])\n"
+
+#. type: Title ===
+#: 200.en.adoc:40
+#, no-wrap
+msgid "Operating principles: Steps in the publishing process"
+msgstr "Principios operativos: pasos del proceso de publicación"
+
+#. type: Plain text
+#: 200.en.adoc:43
+msgid "GBIF provides a means of sharing biodiversity data through a publishing process that uses simple tools and follows standard procedures and protocols to make it universally accessible over the Internet. Data publishing through the GBIF network follows a series of clear steps, shown in <<figure-01,Figure 1>>. Each of these steps is described in more detail in the subsequent sections of this document."
+msgstr "GBIF proporciona un medio para compartir datos sobre biodiversidad a través de un proceso de publicación que utiliza herramientas sencillas y sigue procedimientos y protocolos estándar para hacer los datos accesibles universalmente a través de Internet. La publicación de datos a través de la red de GBIF sigue una serie de pasos claros, mostrados en la <<figura-01,Figura 1>>. Cada uno de estos pasos se describe con más detalle en las siguientes secciones de este documento."
+
+#. type: Plain text
+#: 200.en.adoc:45
+msgid "This guide will help environmental assessment practitioners (EAPs), consultants and other interested and affected parties to choose the most suitable option or tool for publishing the primary biodiversity data they have gathered, as an integral part of the EIA process."
+msgstr "Esta guía ayudará a los profesionales de la evaluación ambiental (EAP por sus siglas en inglés), a los consultores y a otras partes interesadas y afectadas a elegir la opción o la herramienta más adecuada para publicar los datos primarios sobre biodiversidad que han recopilado, como parte integral del proceso de EIA."
+
+#. type: Plain text
+#: 200.en.adoc:47
+msgid "As a first step towards publishing biodiversity data, EAPs can seek assistance from the wide https://www.gbif.org/the-gbif-network[network of GBIF national, regional and thematic Participants^]. A majority of these nodes encourage, coordinate and assist in biodiversity data publishing activities within their respective jurisdictions and domains. If the EAP’s operations fall outside of the GBIF network e.g. in a country where there is no node, then the mailto:helpdesk@gbif.org[GBIF help desk] can provide additional support."
+msgstr "Como primer paso hacia la publicación de datos de biodiversidad, los EAP pueden buscar ayuda en la amplia https://www.gbif.org/the-gbif-network[red de participantes nacionales, regionales y temáticos de GBIF^]. La mayoría de estos nodos fomentan, coordinan y ayudan en las actividades de publicación de datos de biodiversidad dentro de sus respectivas jurisdicciones y dominios. Si las operaciones del EAP quedan fuera de la red de GBIF, por ejemplo, en un país donde no hay ningún nodo, entonces el mailto:helpdesk@gbif.org[centro de ayuda de GBIF] puede proporcionar apoyo adicional."
+
+#. type: Block title
+#: 200.en.adoc:49
+#, no-wrap
+msgid "Data publishing workflow: steps for publishing data on GBIF.org"
+msgstr "Flujo de trabajo de publicación de datos: pasos para publicar datos en GBIF.org"
+
+#. type: Positional ($1) AttributeList argument for macro 'image'
+#: 200.en.adoc:50
+#, no-wrap
+msgid "Figure 1"
+msgstr "Figura 1"
+
+#. type: Target for macro image
+#: 200.en.adoc:50
+#, no-wrap
+msgid "img/web/figure-01.png"
+msgstr "img/web/figure-01.png"
+
+#. type: Title ====
+#: 200.en.adoc:54
+#, no-wrap
+msgid "Step 1: Becoming a data publisher"
+msgstr "Paso 1: convirtiéndose en publicador de datos"
+
+#. type: Plain text
+#: 200.en.adoc:57
+msgid "Once an organization agrees to share EIA data, its staff must establish provisions ensuring that stakeholders in each stage of data collection, curation and management agree to the terms by which data publishing takes place and are properly acknowledged in their role. These provisions should include agreeing to the GBIF https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes) and understanding the conditions of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that users of GBIF-mediated data must abide when reusing data."
+msgstr "Una vez que una organización accede a compartir datos de EIA, su personal debe establecer cláusulas que garanticen que en cada etapa de la colecta, curaduría y gestión de los datos, las partes interesadas están de acuerdo con las condiciones en las que se produce la publicación de datos y que sean debidamente reconocidas en su rol. Estas cláusulas deben incluir la aceptación del https://www.gbif.org/terms/data-publisher[acuerdo de publicación de datos^] de GBIF (la versión en inglés es válida para efectos legales) y la comprensión de las condiciones del https://www.gbif.org/terms/data-user[acuerdo del uso de datos^] de GBIF que los usuarios de los datos mediados por GBIF deben cumplir al reutilizar los datos."
+
+#. type: Title ====
+#: 200.en.adoc:59
+#, no-wrap
+msgid "Step 2. Data capture"
+msgstr "Paso 2: captura de datos"
+
+#. type: Plain text
+#: 200.en.adoc:62
+msgid "Ensuring the standardization of data capture at point of collection will"
+msgstr "Garantizar la estandarización de la captura de datos en el momento de la colecta permitirá"
+
+#. type: Plain text
+#: 200.en.adoc:64
+msgid "make it easier for EAPs to collect and manage primary biodiversity data"
+msgstr "facilitar a los EAP la colecta y gestión de datos primarios sobre biodiversidad"
+
+#. type: Plain text
+#: 200.en.adoc:65
+msgid "improve the consistency and utility of data collection"
+msgstr "mejorar la coherencia y la utilidad de la colecta de datos"
+
+#. type: Plain text
+#: 200.en.adoc:66
+msgid "ensure that the data are collected in a consistent format, suitable for publishing using the GBIF infrastructure."
+msgstr "garantizar que los datos se colectan en un formato coherente, adecuado para su publicación mediante la infraestructura de GBIF."
+
+#. type: Plain text
+#: 200.en.adoc:68
+msgid "GBIF primarily relies on the Darwin Core (DwC) and Ecological Metadata Language (EML) standards, which set out the structure and format of published datasets (learn more about https://www.gbif.org/standards[applicable standards^])."
+msgstr "GBIF se basa principalmente en los estándares Darwin Core (DwC) y Ecological Metadata Language (EML), que establecen la estructura y el formato de los conjuntos de datos publicados (aprenda más sobre https://www.gbif.org/standards[estándares aplicables^])."
+
+#. type: Plain text
+#: 200.en.adoc:70
+msgid "GBIF provides https://www.gbif.org/dataset-classes[pre-configured Excel spreadsheets^] that can serve as templates for capturing checklist, occurrence and sampling-event data. These spreadsheets are simple tools aimed at providing a common format and standard for collecting data. They use consistent terminology and can be completed with additional DwC terms to fit the data collection purpose. This standardized approach makes it easier to exchange data between users, compare it across sites, and integrate it into national and global biodiversity databases. No metadata template is provided as publishers can use the built-in metadata editor in GBIF’s data publication tool–the Integrated Publishing Toolkit (IPT) (see <<step-03,Step 3>> below)–to populate the metadata. The IPT ensures that the data and metadata are in a valid XML format."
+msgstr "GBIF proporciona https://www.gbif.org/dataset-classes[hojas de cálculo Excel preconfiguradas^] que pueden servir como plantillas para capturar datos de listados de especies, registros biológicos y eventos de muestreo. Estas hojas de cálculo son herramientas sencillas destinadas a proporcionar un formato común y un estándar para la colecta de datos. Utilizan una terminología coherente y pueden completarse con términos adicionales de DwC para ajustarse al propósito de la colecta de datos. Este enfoque estandarizado facilita el intercambio de datos entre usuarios, la comparación entre sitios y su integración en bases de datos de biodiversidad nacionales y mundiales. No se proporciona ninguna plantilla de metadatos, ya que los publicadores pueden utilizar el editor de metadatos incorporado en la herramienta de publicación de datos de GBIF, la Integrated Publishing Toolkit (IPT) (ver <<step-03, Paso 3>> más abajo) para ingresar los metadatos. El IPT asegura que los datos y los metadatos estén en un formato XML válido."
+
+#. type: Block title
+#: 200.en.adoc:72
+#, no-wrap
+msgid "Responses to key concerns raised by EIA data publishers"
+msgstr "Respuestas a las principales preocupaciones planteadas por los publicadores de datos de la EIA"
+
+#. type: Table
+#: 200.en.adoc:95
+#, no-wrap
+msgid "|Concern\n"
+"|Response\n\n"
+"|Providing precise data on occurrence of sensitive species (e.g. endangered, high-value) could lead to poaching or piracy\n"
+"|Geographic coordinates can be generalized and other information withheld in published version of the data (see https://doi.org/10.15468/doc-5jp4-5g10[detailed guidance^])\n\n"
+"|Commercial sensitivity of data during licensing period\n"
+"|Data publication can be delayed until project receives approval\n\n"
+"|Company faces possible reputational risk if, for example, biodiversity is damaged\n"
+"|Over time, increased open data on species distributions will allow for more robust and transparent assessments of site-specific damage that can provide reputational dividends\n\n"
+"|Sharing data may need government approval and buy-in\n"
+"|https://www.cbd.int/doc/decisions/cop-13/cop-13-dec-31-en.pdf[Guidelines from the Convention on Biological Diversity] encourage open data sharing, and data mobilized through GBIF is an https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif[indicator of progress towards Aichi Biodiversity Target 19]\n\n"
+"|Company could incur additional costs and require additional effort to monitor and share data\n"
+"|Costs of monitoring should already be captured within the project budget; publication is free of charge, and open-access data can provide long-term savings\n\n"
+"|Companies that don’t invest in sharing data can benefit from free and open data available through GBIF more than others who contribute to its supply and maintenance\n"
+"|“Free riders” exist in any commons, but a large common pool resource like GBIF is not depleted by use, and parties that do participate typically build receptive capacity to understand the issues and limitations of the resource better than those who don’t\n"
+msgstr "|Preocupación\n"
+"|Respuesta\n\n"
+"|Proporcionar datos precisos de registros biológicos de especies sensibles (p. ej. en peligro de extinción, de gran valor) podría conducir a la caza furtiva o a la piratería\n"
+"|Las coordenadas geográficas pueden ser generalizadas y otra información puede ser retenida en la versión publicada de los datos (ver https://doi.org/10.15468/doc-5jp4-5g10[orientación detallada^])\n\n"
+"|Sensibilidad comercial de los datos durante el periodo de licencia\n"
+"|La publicación de los datos puede retrasarse hasta que el proyecto reciba la aprobación.\n\n"
+"|La empresa se enfrenta a un posible riesgo de reputación si, por ejemplo, se afecta la biodiversidad\n"
+"|Con el tiempo, el aumento de los datos abiertos sobre la distribución de las especies permitirá realizar evaluaciones más sólidas y transparentes de los daños específicos del lugar que pueden proporcionar beneficios en su reputación\n\n"
+"|El intercambio de datos puede requerir la aprobación y el compromiso de los gobiernos.\n"
+"|https://www.cbd.int/doc/decisions/cop-13/cop-13-dec-31-en.pdf[Las directrices del \"Convenio de la diversidad biológica\"] fomentan el intercambio de datos abiertos y la movilización de datos a través de GBIF es un https://www.bipindicators.net/indicators/growth-in-species-occurrence-records-accessible-through-gbif[indicador de progreso hacia la meta 19 Aichi de biodiversidad]\n\n"
+"|La empresa podría incurrir en costos adicionales y requerir un esfuerzo adicional para supervisar y compartir los datos\n"
+"|Los costos del seguimiento deberían estar incluidos en el presupuesto del proyecto. La publicación es gratuita y los datos de acceso abierto pueden suponer un ahorro a largo plazo\n\n"
+"|Las empresas que no invierten en compartir datos pueden beneficiarse de los datos gratuitos y abiertos disponibles a través de GBIF más que otras que contribuyen a su suministro y mantenimiento\n"
+"|Los \"aprovechados\" existen en cualquier bien común, pero un gran recurso común como GBIF no se agota por el uso y las partes que participan suelen construir una capacidad receptiva para entender los problemas y las limitaciones del recurso mejor que los que no lo hacen\n"
+
+#. type: Title ====
+#: 200.en.adoc:98
+#, no-wrap
+msgid "Step 3: Selecting a tool to prepare data for publishing"
+msgstr "Paso 3: seleccionando una herramienta para preparar los datos para su publicación"
+
+#. type: Plain text
+#: 200.en.adoc:101
+msgid "GBIF.org does not itself host data. The system relies on each data publisher maintaining their own datasets and making them available online in a GBIF-supported format. It also relies on organizations registering datasets and providing GBIF with a stable endpoint for finding and indexing the data. GBIF recommends using the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) to do this. Highly skilled publishers can also use an API to register datasets programmatically (contact the mailto:helpdesk@gbif.org[GBIF help desk] for more details)."
+msgstr "GBIF.org no publica datos por sí mismo. El sistema depende de que cada publicador de datos mantenga sus propios conjuntos de datos y los disponga en línea en un formato compatible con GBIF. También depende de que las organizaciones registren los conjuntos de datos y proporcionen a GBIF un punto final estable para encontrar e indexar los datos. GBIF recomienda utilizar la https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) para hacerlo. Los publicadores altamente cualificados también pueden utilizar una API para registrar conjuntos de datos de forma programada (contacte al mailto:helpdesk@gbif.org[centro de ayuda de GBIF] para más detalles)."
+
+#. type: Plain text
+#: 200.en.adoc:103
+msgid "Organizations may install the IPT if they have the capacity to host and maintain data on servers that always remain online, ensuring that the data that they share will have a persistent, stable point of access. An organization that either does not have this capacity or does not wish to maintain its own installation can choose one of the following options for data hosting (more details available https://www.gbif.org/article/4qfLORxmM8kYOIwSYSMc2M/data-hosting[here^]):"
+msgstr "Las organizaciones pueden instalar el IPT si tienen la capacidad de alojar y mantener los datos en servidores que permanezcan siempre en línea, garantizando que los datos que comparten tendrán un punto de acceso persistente y estable. Una organización que no tenga esta capacidad o no desee mantener su propia instalación puede elegir una de las siguientes opciones para el alojamiento de datos (más detalles disponibles https://www.gbif.org/article/4qfLORxmM8kYOIwSYSMc2M/data-hosting[aquí^]):"
+
+#. type: Plain text
+#: 200.en.adoc:105
+msgid "Data hosted at a national node (if the country is a GBIF Participant)"
+msgstr "Datos alojados en un nodo nacional (si el país es participante de GBIF)"
+
+#. type: Plain text
+#: 200.en.adoc:106
+msgid "Hosted by another GBIF Participant or data publisher"
+msgstr "Alojado por otro participante de GBIF o publicador de datos"
+
+#. type: Plain text
+#: 200.en.adoc:107
+msgid "Cloud-hosted IPTs maintained by GBIF Secretariat"
+msgstr "IPT alojados en la nube y mantenidos por el Secretariado de GBIF"
+
+#. type: Plain text
+#: 200.en.adoc:109
+msgid "The first two options provide a range of helpdesk services to potential publishers, while the final option provides very limited support to publishers. Potential publishers can request guidance from the mailto:helpdesk@gbif.org[GBIF help desk] on the most suitable option. Regardless of the hosting option selected, data publishers retain full control of the data, including the ability to correct and update datasets at any time. Data citations will always acknowledge the data publisher, irrespective of how or where the datasets are hosted."
+msgstr "Las primeras dos opciones ofrecen una serie de servicios de asistencia a los potenciales publicadores, mientras que la última opción ofrece un apoyo muy limitado. Los potenciales publicadores pueden solicitar orientación al mailto:helpdesk@gbif.org[centro de ayuda de GBIF] sobre la opción más adecuada. Independientemente de la opción de alojamiento seleccionada, los publicadores de datos tienen el control total de los mismos, incluyendo la capacidad de corregir y actualizar los conjuntos de datos en cualquier momento. Las citas de los datos siempre reconocerán al publicador de datos, independientemente de cómo o dónde se alojen los conjuntos de datos."
+
+#. type: Plain text
+#: 200.en.adoc:111
+msgid "The IPT is the most commonly-used tool and is maintained and developed by the GBIF Secretariat. IPTs can generate a Darwin Core Archive (DwC-A), the preferred exchange format, for each dataset and register them on GBIF. To use the IPT, data must already be digitized.  Acceptable file types include delimited text files (e.g. text files using comma or tab-separated values) or Microsoft Excel. Database connections can also be made. If the IPT is to be hosted within the publishing institution, upon installation of the IPT, the publishing organization should register as the host. If the IPT is hosted elsewhere, the IPT administrator can add the publishing organization to the IPT using an IPT token that is issued upon endorsement of the publisher."
+msgstr "El IPT es la herramienta más utilizada y es mantenida y desarrollada por el Secretariado de GBIF. El IPT puede generar un Archivo Darwin Core (DwC-A), el formato de intercambio preferido, para cada conjunto de datos y registrarlos en GBIF. Para utilizar el IPT, los datos ya deben estar digitalizados. Los tipos de archivo aceptables incluyen archivos de texto delimitados (por ejemplo, archivos de texto que utilizan valores separados por comas o por tabulaciones) o Microsoft Excel. También pueden realizarse conexiones a bases de datos. Si el IPT se va a alojar en la institución editora, al instalar el IPT, la organización editora deberá registrarse como anfitrión. Si el IPT se alojará en otro lugar, el administrador del IPT puede añadir a la organización editora al IPT utilizando un token de IPT que se emite tras la aprobación del editor."
+
+#. type: Title ====
+#: 200.en.adoc:112
+#, no-wrap
+msgid "Step 4: Preparing data for publication"
+msgstr "Paso 4: Preparando los datos para la publicación"
+
+#. type: Plain text
+#: 200.en.adoc:115
+msgid "To share data through GBIF.org, publishers must collate or transform and describe existing datasets into a https://www.gbif.org/standards[standardized format^]. This work may require additional processing, content editing and mapping the content of a dataset into one of the available formats. Publishers thus play an essential role not simply in sharing datasets, but also in managing their quality, completeness and usefulness as well as ensuring their integration and value within GBIF’s global knowledge base. GBIF provides guidance on the https://www.gbif.org/data-quality-requirements[data quality requirements and recommendations^]. The https://www.gbif.org/tools/data-validator[GBIF Data Validator^] is a tool that lets publishers check datasets prior to publication and makes recommendations on how datasets can be improved and cleaned by flagging, for example, duplicate identifiers, incomplete fields and recognized inconsistencies in formatting."
+msgstr "Para compartir datos a través de GBIF.org, los publicadores deben recopilar o transformar y describir los conjuntos de datos existentes en un https://www.gbif.org/es/standards[formato estandarizado^]. Este trabajo puede requerir un procesamiento adicional, la edición del contenido y la asignación del contenido de un conjunto de datos a uno de los formatos disponibles. Los publicadores desempeñan, por tanto, un papel esencial no sólo en el intercambio de conjuntos de datos, sino también en la gestión de su calidad, integridad y utilidad, así como en la garantización de su integración y valor dentro de la base de conocimiento global GBIF. GBIF ofrece orientación en https://www.gbif.org/data-quality-requirements[requisitos y recomendaciones sobre la calidad de los datos^]. El https://www.gbif.org/tools/data-validator[\"Validador de datos de GBIF\"^] es una herramienta que permite a los publicadores verificar los conjuntos de datos antes de su publicación y hace recomendaciones sobre cómo se pueden mejorar y limpiar los conjuntos de datos señalando, por ejemplo, los identificadores duplicados, los campos incompletos y las incoherencias reconocidas en el formato."
+
+#. type: Plain text
+#: 200.en.adoc:117
+msgid "Publishers should use a precautionary approach and seek input from specialists on the publishing of precise locations of sensitive species, for example threatened or valuable species, when there are concerns that doing so could enable poaching or other threats to the species population. For a thorough discussion of this topic, see https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]."
+msgstr "Los publicadores deben adoptar un enfoque de precaución y solicitar la opinión de los especialistas sobre la publicación de las localizaciones precisas de las especies sensibles, por ejemplo de las especies amenazadas o valiosas, cuando exista la preocupación de que hacerlo pueda permitir la caza furtiva u otras amenazas para la población de la especie. Para un análisis exhaustivo de este tema, ver https://docs.gbif-uat.org/sensitive-species-best-practices/translation_master/es/[Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles^]."
+
+#. type: Title ====
+#: 200.en.adoc:118
+#, no-wrap
+msgid "Step 5: Publishing data to GBIF"
+msgstr "Paso 5: publicando los datos a GBIF"
+
+#. type: Plain text
+#: 200.en.adoc:121
+msgid "The GBIF IPT supports automatic registration in the GBIF network (see the https://ipt.gbif.org/manual/[IPT manual^]). If publishers are using an IPT, GBIF registers datasets when publishers click the ‘register’ button. Data should be published as soon as possible following the EIA. However, if there are concerns about commercial confidentiality or other time-sensitive issues, publication may be delayed or embargoed until the completion of a licensing process."
+msgstr "El IPT de GBIF soporta el registro automático en la red de GBIF (ver el https://ipt.gbif.org/manual/es/ipt/2.3/manual-del-usuario-del-ipt[Manual IPT^]). Si los publicadores están usando un IPT, GBIF registra los conjuntos de datos cuando los publicadores pulsan el botón \"registrar\". Los datos deben publicarse lo antes posible después de la EIA. Sin embargo, si hay preocupaciones sobre la confidencialidad comercial u otras cuestiones sensibles al tiempo, la publicación puede retrasarse o embargarse hasta la finalización de un proceso de licencia."
+
+#. type: Plain text
+#: 200.en.adoc:123
+msgid "To publish data to GBIF, publishers must assign one of three Creative Commons licences to a dataset:"
+msgstr "Para publicar los datos a GBIF, los publicadores deben asignar una de las tres licencias Creative Commons al conjunto de datos:"
+
+#. type: Plain text
+#: 200.en.adoc:125
+msgid "https://creativecommons.org/publicdomain/zero/1.0[CC0 1.0^], for data made available for any use without any restrictions"
+msgstr "https://creativecommons.org/publicdomain/zero/1.0/deed.es[CC0 1.0^], para datos disponibles para el uso sin ningún tipo de restricción"
+
+#. type: Plain text
+#: 200.en.adoc:126
+msgid "https://creativecommons.org/licenses/by/4.0[CC BY 4.0^], for data made available for any use with appropriate attribution"
+msgstr "https://creativecommons.org/licenses/by/4.0/deed.es[CC BY 4.0^], para datos disponibles para cualquier uso con la debida atribución"
+
+#. type: Plain text
+#: 200.en.adoc:127
+msgid "https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC 4.0^], for data made available for any non-commercial use with appropriate attribution."
+msgstr "https://creativecommons.org/licenses/by-nc/4.0/deed.es[CC BY-NC 4.0^], para datos disponibles para cualquier uso no comercial con la debida atribución."
+
+#. type: Plain text
+#: 200.en.adoc:129
+msgid "Note that the CC-BY-NC license has a significant effect on the reusability of data, and that GBIF does not consider non-commercial use restrictions to be enforceable. GBIF encourages data publishers to choose the most open option possible."
+msgstr "Tenga en cuenta que la licencia CC-BY-NC tiene un efecto significativo en la reutilización de los datos y que GBIF no considera que las restricciones de uso no comercial sean exigibles. GBIF anima a los publicadores de datos a elegir la opción más abierta posible."
+
+#. type: Title ====
+#: 200.en.adoc:130
+#, no-wrap
+msgid "Step 6:  Discovering and citing data through GBIF"
+msgstr "Paso 6: descubriendo y citando datos a través de GBIF"
+
+#. type: Plain text
+#: 200.en.adoc:133
+msgid "Once datasets are registered, GBIF indexes them to facilitate access to the data by users. Each dataset has its own page (https://doi.org/10.15468/q8qykg[example^]) and can be found using the search function on the website and on the publisher’s page (https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[example^]). The indexing process allows the search and discovery of records from all published datasets, showing, for example, all records of a particular species or groups of species in a given geographical area."
+msgstr "Una vez registrados los conjuntos de datos, GBIF los indexa para facilitar el acceso de los usuarios a los datos. Cada conjunto de datos tiene su propia página (https://doi.org/10.15468/q8qykg[ejemplo^]) y puede encontrarse utilizando la función de búsqueda en el sitio web y en la página del editor (https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[ejemplo^]). El proceso de indexación permite buscar y descubrir los registros de todos los conjuntos de datos publicados, mostrando, por ejemplo, todos los registros de una especie en concreta o de grupos de especies en una zona geográfica determinada."
+
+#. type: Plain text
+#: 200.en.adoc:135
+msgid "Because search results mix records from different datasets, the GBIF Data User Agreement requires appropriate citation of data regardless of the licence applied to any individual dataset. Through the use of https://www.doi.org[Digital Object Identifiers] (DOIs), GBIF tracks data reuse and provides publishers with key metrics for downloads, which appear the ‘activity’ tab of each dataset page (https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[example^]) and for documented citations in other research and assessments, linked from both https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=c7ecf786-d4ab-4708-87da-bc34e542be44[dataset^] and https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=fe602f47-b553-4291-b6e5-197b9837e167[publisher^] pages. Publishers can use this information to demonstrate the value of their contribution to science and society through sharing data from EIAs."
+msgstr "Debido a que los resultados de la búsqueda mezclan registros de diferentes conjuntos de datos, el \"Acuerdo de usuario de datos de GBIF\" requiere la citación apropiada de los datos, independientemente de la licencia aplicada a cualquier conjunto de datos individual. Mediante el uso de https://www.doi.org[identificadores de objetos digitales] (DOI), GBIF hace un seguimiento de la reutilización de los datos y proporciona a los publicadores métricas clave para las descargas, que aparecen en la pestaña de \"Actividad\" de la página de cada conjunto de datos (https://www.gbif.org/dataset/eba5d1aa-35dd-4f0c-b1dc-304f6b44d3b3/activity[ejemplo^]) y para las citas documentadas en otras investigaciones y evaluaciones, enlazadas desde las páginas https://www.gbif.org/resource/search?contentType=literature&gbifDatasetKey=c7ecf786-d4ab-4708-87da-bc34e542be44[conjunto de datos^] y https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=fe602f47-b553-4291-b6e5-197b9837e167[publicador^]. Los publicadores pueden utilizar esta información para demostrar el valor de su contribución a la ciencia y a la sociedad compartiendo los datos de las EIA."
+
+#. type: Title ==
+#: appa.en.adoc:2
+#, no-wrap
+msgid "Methods and tools web sites: sources of additional assistance"
+msgstr "Sitios web de métodos y herramientas: fuentes de ayuda adicional"
+
+#. type: Plain text
+#: appa.en.adoc:5
+msgid "https://www.gbif.org/publishing-data[Getting started: overview of data publishing in the GBIF network^]"
+msgstr "https://www.gbif.org/publishing-data[Introducción: perspectiva general de la publicación de datos en la red de GBIF^]"
+
+#. type: Plain text
+#: appa.en.adoc:6
+msgid "https://ipt.gbif.org/manual/en/ipt/2.5/how-to-publish#instructions[GBIF IPT Manual: How to publish biodiversity data through GBIF.org]"
+msgstr "https://ipt.gbif.org/manual/es/ipt/2.5/how-to-publish[Manual del usuario del IPT: Cómo publicar datos sobre biodiversidad a través de GBIF.org]"
+
+#. type: Plain text
+#: appa.en.adoc:8
+msgid "https://www.gbif.org/dataset-classes[GBIF types of datasets^], including spreadsheet templates"
+msgstr "https://www.gbif.org/es/dataset-classes[GBIF tipos de juegos de datos admitidos^], incluyendo plantillas de hojas de cálculo"
+
+#. type: Plain text
+#: appa.en.adoc:9
+msgid "https://www.gbif.org/data-quality-requirements[GBIF data quality Requirements^]"
+msgstr "https://www.gbif.org/data-quality-requirements[Requisitos de calidad de datos GBIF^]"
+
+#. type: Plain text
+#: appa.en.adoc:10
+msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]"
+msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles^]"
+
+#. type: Plain text
+#: appa.en.adoc:11
+msgid "https://dwc.tdwg.org/terms/[Darwin Core Quick Reference Guide^]"
+msgstr "https://dwc.tdwg.org/terms/[Guía rápida de referencia del Darwin Core^]"
+
+#. type: Plain text
+#: appa.en.adoc:12
+msgid "http://www.dublincore.org/documents/usageguide/elements/[Ecological Metadata Language Guide^]"
+msgstr "http://www.dublincore.org/documents/usageguide/elements/[Ecological Metadata Language Guide^]"
+
+#. type: Plain text
+#: appa.en.adoc:12
+msgid "https://www.gbif.org/the-gbif-network[GBIF Participants^]"
+msgstr "https://www.gbif.org/the-gbif-network[Participantes de GBIF^]"
+
+#. type: Title ==
+#: bibliography.en.adoc:2
+#, no-wrap
+msgid "References and further reading"
+msgstr "Referencias y lecturas adicionales"
+
+#. type: Plain text
+#: bibliography.en.adoc:5
+msgid "Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011). Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. IAIA Special Publication Series No. 7. https://www.iaia.org/uploads/pdf/sp7.pdf"
+msgstr "Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011). Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. IAIA Special Publication Series No. 7. https://www.iaia.org/uploads/pdf/sp7.pdf"
+
+#. type: Plain text
+#: bibliography.en.adoc:6
+msgid "Chapman AD (2005) Principles of Data Quality. Version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc.jrgg-a190"
+msgstr "Chapman AD (2005) Principles of Data Quality. Version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc.jrgg-a190"
+
+#. type: Plain text
+#: bibliography.en.adoc:7
+msgid "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
+msgstr "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
+
+#. type: Plain text
+#: bibliography.en.adoc:8
+msgid "King N, Rajvanshi A, Willoughby S, Roberts R, Mathur VB, Cadman M & Chavan V (2012) Improving access to biodiversity data for, and from, EIAs – a data publishing framework built to global standards. Impact Assessment and Project Appraisal 30(3): 148-156. https://doi.org/10.1080/14615517.2012.705068."
+msgstr "King N, Rajvanshi A, Willoughby S, Roberts R, Mathur VB, Cadman M & Chavan V (2012) Improving access to biodiversity data for, and from, EIAs – a data publishing framework built to global standards. Impact Assessment and Project Appraisal 30(3): 148-156. https://doi.org/10.1080/14615517.2012.705068."
+
+#. type: Plain text
+#: bibliography.en.adoc:9
+msgid "[[rajvanshi]] Rajvanshi A, Mathur V & Iftikhar UA (2007). Best-practice guidance for biodiversity inclusive impact assessment: a manual for practitioners and reviewers in South East Asia. CBBIA-IAIA Guidance Series. Rapid City, N.D., USA: International Association for Impact Assessment."
+msgstr "[[rajvanshi]] Rajvanshi A, Mathur V & Iftikhar UA (2007). Best-practice guidance for biodiversity inclusive impact assessment: a manual for practitioners and reviewers in South East Asia. CBBIA-IAIA Guidance Series. Rapid City, N.D., USA: International Association for Impact Assessment."
+
+#. type: Plain text
+#: bibliography.en.adoc:10
+msgid "<<<"
+msgstr ""
+
