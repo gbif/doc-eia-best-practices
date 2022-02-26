@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-10-04 14:05+0000\n"
+"POT-Creation-Date: 2021-11-25 17:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:13
+#: index.en.adoc:14
 msgid "languageLinks:combined[]"
 msgstr ""
 
@@ -492,9 +492,9 @@ msgid ""
 "GBIF provides a means of sharing biodiversity data through a publishing "
 "process that uses simple tools and follows standard procedures and protocols "
 "to make it universally accessible over the Internet. Data publishing through "
-"the GBIF network follows a series of clear steps, shown in "
-"<<figure-01,Figure 1>>. Each of these steps is described in more detail in "
-"the subsequent sections of this document."
+"the GBIF network follows a series of clear steps, shown in <<figure-01,Table "
+"2>>. Each of these steps is described in more detail in the subsequent "
+"sections of this document."
 msgstr ""
 
 #. type: Plain text
@@ -525,26 +525,57 @@ msgstr ""
 msgid "Data publishing workflow: steps for publishing data on GBIF.org"
 msgstr ""
 
-#. type: Positional ($1) AttributeList argument for macro 'image'
-#: 200.en.adoc:50
+#. type: Table
+#: 200.en.adoc:85
 #, no-wrap
-msgid "Figure 1"
-msgstr ""
-
-#. type: Target for macro image
-#: 200.en.adoc:50
-#, no-wrap
-msgid "img/web/figure-01.png"
+msgid ""
+"|*1. Publisher Registration*\n"
+"\n"
+"Registration of organization as a data publisher\n"
+"\n"
+"|Request endorsement from GBIF at "
+"https://www.gbif.org/become-a-publisher[GBIF.org/become-a-publisher].\n"
+"\n"
+"|*2. Data Capture*\n"
+"\n"
+"Collection of species occurrence data and metadata\n"
+"\n"
+"|Use templates for digitizing data into standard formats.\n"
+"\n"
+"|*3. Tool Selection*\n"
+"\n"
+"GBIF-supplied tools that provide access to data in a standard format\n"
+"\n"
+"|Select a data hosting solution and use the Integrated Publishing Toolkit "
+"for publishing.\n"
+"\n"
+"|*4. Data Preparation*\n"
+"\n"
+"Preparation of data to confirm with standard data exchange formats\n"
+"\n"
+"|Align data to GBIF data quality requirements and generalize data for "
+"sensitive species.\n"
+"\n"
+"|*5. Data Publication*\n"
+"\n"
+"Registration of web-based data access points in the GBIF registry\n"
+"\n"
+"|Publish data with appropriate data license\n"
+"\n"
+"|*6. Data Discovery*\n"
+"\n"
+"|Access, search and filter data via https://www.gbif.org[GBIF.org] or the "
+"Application Programming Interface (API).\n"
 msgstr ""
 
 #. type: Title ====
-#: 200.en.adoc:54
+#: 200.en.adoc:89
 #, no-wrap
 msgid "Step 1: Becoming a data publisher"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:57
+#: 200.en.adoc:92
 msgid ""
 "Once an organization agrees to share EIA data, its staff must establish "
 "provisions ensuring that stakeholders in each stage of data collection, "
@@ -558,35 +589,35 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: 200.en.adoc:59
+#: 200.en.adoc:94
 #, no-wrap
 msgid "Step 2. Data capture"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:62
+#: 200.en.adoc:97
 msgid "Ensuring the standardization of data capture at point of collection will"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:64
+#: 200.en.adoc:99
 msgid "make it easier for EAPs to collect and manage primary biodiversity data"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:65
+#: 200.en.adoc:100
 msgid "improve the consistency and utility of data collection"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:66
+#: 200.en.adoc:101
 msgid ""
 "ensure that the data are collected in a consistent format, suitable for "
 "publishing using the GBIF infrastructure."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:68
+#: 200.en.adoc:103
 msgid ""
 "GBIF primarily relies on the Darwin Core (DwC) and Ecological Metadata "
 "Language (EML) standards, which set out the structure and format of "
@@ -595,7 +626,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:70
+#: 200.en.adoc:105
 msgid ""
 "GBIF provides https://www.gbif.org/dataset-classes[pre-configured Excel "
 "spreadsheets^] that can serve as templates for capturing checklist, "
@@ -612,13 +643,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:72
+#: 200.en.adoc:107
 #, no-wrap
 msgid "Responses to key concerns raised by EIA data publishers"
 msgstr ""
 
 #. type: Table
-#: 200.en.adoc:95
+#: 200.en.adoc:130
 #, no-wrap
 msgid ""
 "|Concern\n"
@@ -662,13 +693,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: 200.en.adoc:98
+#: 200.en.adoc:133
 #, no-wrap
 msgid "Step 3: Selecting a tool to prepare data for publishing"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:101
+#: 200.en.adoc:136
 msgid ""
 "GBIF.org does not itself host data. The system relies on each data publisher "
 "maintaining their own datasets and making them available online in a "
@@ -681,7 +712,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:103
+#: 200.en.adoc:138
 msgid ""
 "Organizations may install the IPT if they have the capacity to host and "
 "maintain data on servers that always remain online, ensuring that the data "
@@ -693,22 +724,22 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:105
+#: 200.en.adoc:140
 msgid "Data hosted at a national node (if the country is a GBIF Participant)"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:106
+#: 200.en.adoc:141
 msgid "Hosted by another GBIF Participant or data publisher"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:107
+#: 200.en.adoc:142
 msgid "Cloud-hosted IPTs maintained by GBIF Secretariat"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:109
+#: 200.en.adoc:144
 msgid ""
 "The first two options provide a range of helpdesk services to potential "
 "publishers, while the final option provides very limited support to "
@@ -721,7 +752,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:111
+#: 200.en.adoc:146
 msgid ""
 "The IPT is the most commonly-used tool and is maintained and developed by "
 "the GBIF Secretariat. IPTs can generate a Darwin Core Archive (DwC-A), the "
@@ -737,13 +768,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: 200.en.adoc:112
+#: 200.en.adoc:147
 #, no-wrap
 msgid "Step 4: Preparing data for publication"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:115
+#: 200.en.adoc:150
 msgid ""
 "To share data through GBIF.org, publishers must collate or transform and "
 "describe existing datasets into a "
@@ -762,7 +793,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:117
+#: 200.en.adoc:152
 msgid ""
 "Publishers should use a precautionary approach and seek input from "
 "specialists on the publishing of precise locations of sensitive species, for "
@@ -774,13 +805,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: 200.en.adoc:118
+#: 200.en.adoc:153
 #, no-wrap
 msgid "Step 5: Publishing data to GBIF"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:121
+#: 200.en.adoc:156
 msgid ""
 "The GBIF IPT supports automatic registration in the GBIF network (see the "
 "https://ipt.gbif.org/manual/[IPT manual^]). If publishers are using an IPT, "
@@ -792,35 +823,35 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:123
+#: 200.en.adoc:158
 msgid ""
 "To publish data to GBIF, publishers must assign one of three Creative "
 "Commons licences to a dataset:"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:125
+#: 200.en.adoc:160
 msgid ""
 "https://creativecommons.org/publicdomain/zero/1.0[CC0 1.0^], for data made "
 "available for any use without any restrictions"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:126
+#: 200.en.adoc:161
 msgid ""
 "https://creativecommons.org/licenses/by/4.0[CC BY 4.0^], for data made "
 "available for any use with appropriate attribution"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:127
+#: 200.en.adoc:162
 msgid ""
 "https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC 4.0^], for data made "
 "available for any non-commercial use with appropriate attribution."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:129
+#: 200.en.adoc:164
 msgid ""
 "Note that the CC-BY-NC license has a significant effect on the reusability "
 "of data, and that GBIF does not consider non-commercial use restrictions to "
@@ -829,13 +860,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: 200.en.adoc:130
+#: 200.en.adoc:165
 #, no-wrap
 msgid "Step 6:  Discovering and citing data through GBIF"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:133
+#: 200.en.adoc:168
 msgid ""
 "Once datasets are registered, GBIF indexes them to facilitate access to the "
 "data by users. Each dataset has its own page "
@@ -848,7 +879,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:135
+#: 200.en.adoc:170
 msgid ""
 "Because search results mix records from different datasets, the GBIF Data "
 "User Agreement requires appropriate citation of data regardless of the "
